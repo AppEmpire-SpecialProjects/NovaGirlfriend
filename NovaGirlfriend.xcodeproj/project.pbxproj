@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8F5908E680EAFF1F1342D689 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B7DE18A29E426D465A3DF291 /* Foundation.framework */; };
+		AAD1506613E773F6F81A6743 /* IntegrationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38ADF47B7B0760785E258CB0 /* IntegrationUITests.swift */; };
+		D10000000000000000000001 /* GalleryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D10000000000000000000002 /* GalleryUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3AECCB77D9569C998C649050 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3CE146113050554600929328 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3CE146183050554600929328;
+			remoteInfo = NovaGirlfriend;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		38ADF47B7B0760785E258CB0 /* IntegrationUITests.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IntegrationUITests.swift; sourceTree = "<group>"; };
+		3CE146193050554600929328 /* NovaGirlfriend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NovaGirlfriend.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A350848CEAEA1612040F8F5 /* NovaGirlfriendUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NovaGirlfriendUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7DE18A29E426D465A3DF291 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D10000000000000000000002 /* GalleryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryUITests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3CE1461B3050554600929328 /* NovaGirlfriend */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = NovaGirlfriend;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3CE146163050554600929328 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CB05C38295043D70E301E773 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F5908E680EAFF1F1342D689 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3CE146103050554600929328 = {
+			isa = PBXGroup;
+			children = (
+				3CE1461B3050554600929328 /* NovaGirlfriend */,
+				3CE1461A3050554600929328 /* Products */,
+				EEEA86718860BCBC629FF372 /* Frameworks */,
+				BD4B5258CBBDA17797C9A4B2 /* NovaGirlfriendUITests */,
+			);
+			sourceTree = "<group>";
+		};
+		3CE1461A3050554600929328 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3CE146193050554600929328 /* NovaGirlfriend.app */,
+				5A350848CEAEA1612040F8F5 /* NovaGirlfriendUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7C40F4F40929362FEA4A1268 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				B7DE18A29E426D465A3DF291 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		BD4B5258CBBDA17797C9A4B2 /* NovaGirlfriendUITests */ = {
+			isa = PBXGroup;
+			children = (
+				38ADF47B7B0760785E258CB0 /* IntegrationUITests.swift */,
+				D10000000000000000000002 /* GalleryUITests.swift */,
+			);
+			name = NovaGirlfriendUITests;
+			path = Tests/UI;
+			sourceTree = "<group>";
+		};
+		EEEA86718860BCBC629FF372 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7C40F4F40929362FEA4A1268 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3CE146183050554600929328 /* NovaGirlfriend */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3CE146243050554700929328 /* Build configuration list for PBXNativeTarget "NovaGirlfriend" */;
+			buildPhases = (
+				3CE146153050554600929328 /* Sources */,
+				3CE146163050554600929328 /* Frameworks */,
+				3CE146173050554600929328 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3CE1461B3050554600929328 /* NovaGirlfriend */,
+			);
+			name = NovaGirlfriend;
+			productName = NovaGirlfriend;
+			productReference = 3CE146193050554600929328 /* NovaGirlfriend.app */;
+			productType = "com.apple.product-type.application";
+		};
+		435FE595F22BE2D405A82DCB /* NovaGirlfriendUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64FA28579F7D04048AD14946 /* Build configuration list for PBXNativeTarget "NovaGirlfriendUITests" */;
+			buildPhases = (
+				6839FDAE9926EA9EEFF231C1 /* Sources */,
+				CB05C38295043D70E301E773 /* Frameworks */,
+				4F63CF28DB51BE69CE2BC5E2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ED5F0ADA7AB365F0AFABDC0F /* PBXTargetDependency */,
+			);
+			name = NovaGirlfriendUITests;
+			productName = NovaGirlfriendUITests;
+			productReference = 5A350848CEAEA1612040F8F5 /* NovaGirlfriendUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3CE146113050554600929328 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					3CE146183050554600929328 = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 3CE146143050554600929328 /* Build configuration list for PBXProject "NovaGirlfriend" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3CE146103050554600929328;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3CE1461A3050554600929328 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CE146183050554600929328 /* NovaGirlfriend */,
+				435FE595F22BE2D405A82DCB /* NovaGirlfriendUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3CE146173050554600929328 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4F63CF28DB51BE69CE2BC5E2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3CE146153050554600929328 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6839FDAE9926EA9EEFF231C1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAD1506613E773F6F81A6743 /* IntegrationUITests.swift in Sources */,
+				D10000000000000000000001 /* GalleryUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		ED5F0ADA7AB365F0AFABDC0F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = NovaGirlfriend;
+			target = 3CE146183050554600929328 /* NovaGirlfriend */;
+			targetProxy = 3AECCB77D9569C998C649050 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3CE146223050554700929328 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = M3QB43LSNV;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3CE146233050554700929328 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = M3QB43LSNV;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3CE146253050554700929328 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APP_STORE_ID = "";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = M3QB43LSNV;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_APP_STORE_ID = "$(APP_STORE_ID)";
+				INFOPLIST_KEY_CFBundleDisplayName = Nova;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Nova uses the microphone only when you choose to record a voice message.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Nova adds media to your photo library only when you choose to save it.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Nova converts your voice to text only when you start speech input.";
+				INFOPLIST_KEY_NovaAIBaseURL = "$(NOVA_AI_BASE_URL)";
+				INFOPLIST_KEY_SUPPORT_EMAIL = "$(SUPPORT_EMAIL)";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				NOVA_AI_BASE_URL = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.LunaraAIEmotionalTalk.NovaGirlfriend;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORT_EMAIL = "";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3CE146263050554700929328 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APP_STORE_ID = "";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = M3QB43LSNV;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_APP_STORE_ID = "$(APP_STORE_ID)";
+				INFOPLIST_KEY_CFBundleDisplayName = Nova;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Nova uses the microphone only when you choose to record a voice message.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Nova adds media to your photo library only when you choose to save it.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Nova converts your voice to text only when you start speech input.";
+				INFOPLIST_KEY_NovaAIBaseURL = "$(NOVA_AI_BASE_URL)";
+				INFOPLIST_KEY_SUPPORT_EMAIL = "$(SUPPORT_EMAIL)";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				NOVA_AI_BASE_URL = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.LunaraAIEmotionalTalk.NovaGirlfriend;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORT_EMAIL = "";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8D0DB1669A17737797A271EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGNING_ALLOWED = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LunaraAIEmotionalTalk.NovaGirlfriend.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = NovaGirlfriend;
+			};
+			name = Debug;
+		};
+		F4F2672620962F2A35102E6C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGNING_ALLOWED = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LunaraAIEmotionalTalk.NovaGirlfriend.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = NovaGirlfriend;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3CE146143050554600929328 /* Build configuration list for PBXProject "NovaGirlfriend" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CE146223050554700929328 /* Debug */,
+				3CE146233050554700929328 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3CE146243050554700929328 /* Build configuration list for PBXNativeTarget "NovaGirlfriend" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CE146253050554700929328 /* Debug */,
+				3CE146263050554700929328 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64FA28579F7D04048AD14946 /* Build configuration list for PBXNativeTarget "NovaGirlfriendUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4F2672620962F2A35102E6C /* Release */,
+				8D0DB1669A17737797A271EC /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3CE146113050554600929328 /* Project object */;
+}
