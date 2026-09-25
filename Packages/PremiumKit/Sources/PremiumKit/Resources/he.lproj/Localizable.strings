@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "שבוע";
+"period.month" = "חודש";
+"period.year" = "שנה";
+"period.day" = "יום";
+"period.one_time" = "חד פעמי";
+
+/* Price formats */
+"price.per_week_format" = "סה״כ %@ לשבוע";
+"price.limited_offer" = "מבצע לזמן מוגבל";
+
+/* Fallback buttons */
+"button.try_free" = "נסה בחינם";
+"button.continue" = "המשך והירשם";
+"button.purchase" = "רכוש והמשך";
+"button.limited" = "או המשך עם גרסה מוגבלת";
+"button.next" = "המשך";
+
+/* Alerts */
+"alert.cancel" = "ביטול";
+"alert.retry" = "נסה שוב";
+"alert.retry_message" = "האם תרצה לנסות שוב?";
+"alert.error" = "שגיאה";
+
+/* Product */
+"product.trial_title" = "3 ימי ניסיון חינם";
+"product.non_trial_subtitle" = "קבל גישה מלאה תמורת";
+
+/* Links */
+"links.terms" = "תנאי שימוש";
+"links.privacy" = "מדיניות פרטיות";
+"links.restore" = "שחזר";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "גישה ללא הגבלה!";
+"main.button.try_free" = "נסה בחינם";
+"main.button.continue" = "המשך והירשם";
+"main.button.purchase" = "רכוש והמשך";
+
+/* Main products */
+"main.weekly_trial.title" = "אופטימלי";
+"main.weekly_trial.subtitle" = "נסה 3 ימים בחינם, אחר כך";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "שבועי";
+
+"main.monthly.title" = "פופולרי";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "חודשי";
+
+"main.yearly.title" = "המבצע הטוב ביותר";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "שנתי";
+
+"main.lifetime.title" = "גישה לכל החיים";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "מבצע לזמן מוגבל";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "גישה ללא הגבלה";
+"onboarding.button.limited" = "או המשך עם גרסה מוגבלת";
+"onboarding.button.try_free" = "נסה בחינם והירשם";
+"onboarding.button.continue" = "המשך והירשם";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "אופטימלי";
+"onboarding.weekly.subtitle" = "גישה מלאה ב-";
+"onboarding.weekly.message" = "הפעל ניסיון חינם ל-3 ימים";
+"onboarding.weekly.periodly" = "שבועי";
+
+"onboarding.weekly_trial.title" = "שלושה ימים חינם";
+"onboarding.weekly_trial.subtitle" = "נסה 3 ימים בחינם, אחר כך";
+"onboarding.weekly_trial.message" = "ניסיון חינם הופעל";
+"onboarding.weekly_trial.periodly" = "שבועי";
+
+/* Errors */
+"error.product_unavailable" = "מוצר זה אינו זמין כרגע. אנא נסה מאוחר יותר.";
+"error.network" = "שגיאת חיבור. אנא בדוק את חיבור האינטרנט.";
+"error.cancelled" = "הרכישה בוטלה.";
+"error.pending" = "הרכישה ממתינה לאישור.";
+"error.verification_failed" = "אימות הרכישה נכשל. אנא פנה לתמיכה.";
+"error.nothing_to_restore" = "אין רכישות לשחזור.";
+"error.payment_not_allowed" = "רכישות אינן מותרות במכשיר זה.";
+"error.payment_invalid" = "פרטי תשלום לא תקינים.";
+"error.billing_issue" = "בעיית חיוב. אנא עדכן את אמצעי התשלום.";
+"error.not_entitled" = "אינך זכאי לרכישה זו.";
+"error.unknown" = "משהו השתבש. אנא נסה מאוחר יותר.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "ניסיון";
+"picker.today" = "היום";
+"picker.today.subtitle" = "גישה ללא הגבלה";
+"picker.future.title" = "בעוד %@";
+"picker.future.subtitle.trial" = "המנוי מתחדש אוטומטית ב-%@\nלאחר תקופת הניסיון של %@. ביטול בכל עת";
+"picker.future.subtitle.nonTrial" = "המנוי מתחדש אוטומטית ב-%@.\nביטול בכל עת";
+"onboarding.weekly_picker_trial" = "הירשם כמנוי לפתיחת כל התכונות,\nרק %@ + %@ ניסיון חינם";
+"onboarding.weekly_picker_nonTrial" = "הירשם כמנוי לפתיחת כל התכונות,\nרק %@";
+"duration.days" = "%d ימים";
+"duration.weeks" = "%d שבועות";
+"duration.months" = "%d חודשים";
+"duration.years" = "%d שנים";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "תקופת הניסיון אינה זמינה";
+"alert.trial_expired.message" = "כבר השתמשת בתקופת הניסיון החינמית שלך. ניתן להירשם ללא תקופת ניסיון.";
+
+"picker.segment.trial" = "3 ימים";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "התחל תקופת ניסיון חינם";
+"onboarding.message.nonTrial" = "עדיין לא בטוח? התחל תקופת ניסיון חינם";

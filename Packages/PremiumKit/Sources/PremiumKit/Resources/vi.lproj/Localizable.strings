@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "tuan";
+"period.month" = "thang";
+"period.year" = "nam";
+"period.day" = "ngay";
+"period.one_time" = "mot lan";
+
+/* Price formats */
+"price.per_week_format" = "Tong cong %@ moi tuan";
+"price.limited_offer" = "Uu dai co thoi han";
+
+/* Fallback buttons */
+"button.try_free" = "Dung thu mien phi";
+"button.continue" = "Tiep tuc va dang ky";
+"button.purchase" = "Mua va tiep tuc";
+"button.limited" = "hoac tiep tuc voi phien ban gioi han";
+"button.next" = "Tiep tuc";
+
+/* Alerts */
+"alert.cancel" = "Huy";
+"alert.retry" = "Thu lai";
+"alert.retry_message" = "Ban co muon thu lai khong?";
+"alert.error" = "Loi";
+
+/* Product */
+"product.trial_title" = "Dung thu 3 ngay mien phi";
+"product.non_trial_subtitle" = "Truy cập đầy đủ chỉ với";
+
+/* Links */
+"links.terms" = "Dieu khoan su dung";
+"links.privacy" = "Chinh sach bao mat";
+"links.restore" = "Khoi phuc";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Truy cap khong gioi han!";
+"main.button.try_free" = "Dung thu mien phi";
+"main.button.continue" = "Tiep tuc va dang ky";
+"main.button.purchase" = "Mua va tiep tuc";
+
+/* Main products */
+"main.weekly_trial.title" = "Tối ưu";
+"main.weekly_trial.subtitle" = "Dung thu 3 ngay mien phi, sau do";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Hang tuan";
+
+"main.monthly.title" = "Pho bien";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Hang thang";
+
+"main.yearly.title" = "Uu dai tot nhat";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Hang nam";
+
+"main.lifetime.title" = "Truy cap tron doi";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Uu dai co thoi han";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Truy cập không giới hạn";
+"onboarding.button.limited" = "Hoac tiep tuc voi phien ban gioi han";
+"onboarding.button.try_free" = "Dùng thử miễn phí & Đăng ký";
+"onboarding.button.continue" = "Tiếp tục & Đăng ký";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Toi uu";
+"onboarding.weekly.subtitle" = "Truy cap day du chi voi";
+"onboarding.weekly.message" = "Kich hoat dung thu 3 ngay mien phi";
+"onboarding.weekly.periodly" = "Hang tuan";
+
+"onboarding.weekly_trial.title" = "Ba ngay mien phi";
+"onboarding.weekly_trial.subtitle" = "Dung thu 3 ngay mien phi, sau do";
+"onboarding.weekly_trial.message" = "Da kich hoat dung thu mien phi";
+"onboarding.weekly_trial.periodly" = "Hang tuan";
+
+/* Errors */
+"error.product_unavailable" = "San pham nay hien khong co san. Vui long thu lai sau.";
+"error.network" = "Loi ket noi. Vui long kiem tra ket noi internet.";
+"error.cancelled" = "Da huy mua hang.";
+"error.pending" = "Giao dich dang cho duyet.";
+"error.verification_failed" = "Xac minh giao dich that bai. Vui long lien he ho tro.";
+"error.nothing_to_restore" = "Khong co giao dich nao de khoi phuc.";
+"error.payment_not_allowed" = "Khong cho phep mua hang tren thiet bi nay.";
+"error.payment_invalid" = "Thong tin thanh toan khong hop le.";
+"error.billing_issue" = "Van de thanh toan. Vui long cap nhat phuong thuc thanh toan.";
+"error.not_entitled" = "Ban khong du dieu kien cho giao dich nay.";
+"error.unknown" = "Da xay ra loi. Vui long thu lai sau.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Dùng thử";
+"picker.today" = "Hôm nay";
+"picker.today.subtitle" = "Truy cập không giới hạn";
+"picker.future.title" = "Sau %@";
+"picker.future.subtitle.trial" = "Đăng ký tự động gia hạn với giá %@\nsau thời gian dùng thử %@. Hủy bất cứ lúc nào";
+"picker.future.subtitle.nonTrial" = "Đăng ký tự động gia hạn với giá %@.\nHủy bất cứ lúc nào";
+"onboarding.weekly_picker_trial" = "Đăng ký để mở khóa tất cả tính năng,\nchỉ %@ + %@ dùng thử miễn phí";
+"onboarding.weekly_picker_nonTrial" = "Đăng ký để mở khóa tất cả tính năng,\nchỉ %@";
+"duration.days" = "%d ngày";
+"duration.weeks" = "%d tuần";
+"duration.months" = "%d tháng";
+"duration.years" = "%d năm";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Bản dùng thử không khả dụng";
+"alert.trial_expired.message" = "Bạn đã sử dụng bản dùng thử miễn phí. Bạn có thể đăng ký mà không cần thời gian dùng thử.";
+
+"picker.segment.trial" = "3 ngày";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Bắt đầu dùng thử miễn phí";
+"onboarding.message.nonTrial" = "Vẫn chưa chắc chắn? Bắt đầu dùng thử miễn phí";

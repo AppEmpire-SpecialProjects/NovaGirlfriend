@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "vecka";
+"period.month" = "manad";
+"period.year" = "ar";
+"period.day" = "dag";
+"period.one_time" = "engangskop";
+
+/* Price formats */
+"price.per_week_format" = "Totalt %@ per vecka";
+"price.limited_offer" = "Tidsbegransat erbjudande";
+
+/* Fallback buttons */
+"button.try_free" = "Prova gratis";
+"button.continue" = "Fortsatt och prenumerera";
+"button.purchase" = "Kop och fortsatt";
+"button.limited" = "eller fortsatt med begransad version";
+"button.next" = "Fortsatt";
+
+/* Alerts */
+"alert.cancel" = "Avbryt";
+"alert.retry" = "Forsok igen";
+"alert.retry_message" = "Vill du forsoka igen?";
+"alert.error" = "Fel";
+
+/* Product */
+"product.trial_title" = "3 dagars gratis provperiod";
+"product.non_trial_subtitle" = "Få full åtkomst för bara";
+
+/* Links */
+"links.terms" = "Anvandarvillkor";
+"links.privacy" = "Integritetspolicy";
+"links.restore" = "Aterstall";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Obegransad atkomst!";
+"main.button.try_free" = "Prova gratis";
+"main.button.continue" = "Fortsatt och prenumerera";
+"main.button.purchase" = "Kop och fortsatt";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimalt";
+"main.weekly_trial.subtitle" = "Prova 3 dagar gratis, sedan";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Varje vecka";
+
+"main.monthly.title" = "Popular";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Manadsvis";
+
+"main.yearly.title" = "Basta erbjudandet";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Arsvis";
+
+"main.lifetime.title" = "Livstidsatkomst";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Tidsbegransat erbjudande";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Obegränsad åtkomst";
+"onboarding.button.limited" = "Eller fortsatt med begransad version";
+"onboarding.button.try_free" = "Prova gratis & Prenumerera";
+"onboarding.button.continue" = "Fortsätt & Prenumerera";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimal";
+"onboarding.weekly.subtitle" = "Full atkomst for endast";
+"onboarding.weekly.message" = "Aktivera 3 dagars gratis provperiod";
+"onboarding.weekly.periodly" = "Varje vecka";
+
+"onboarding.weekly_trial.title" = "Tre dagar gratis";
+"onboarding.weekly_trial.subtitle" = "Prova 3 dagar gratis, sedan";
+"onboarding.weekly_trial.message" = "Gratis provperiod aktiverad";
+"onboarding.weekly_trial.periodly" = "Varje vecka";
+
+/* Errors */
+"error.product_unavailable" = "Denna produkt ar for narvarande inte tillganglig. Forsok igen senare.";
+"error.network" = "Anslutningsfel. Kontrollera din internetanslutning.";
+"error.cancelled" = "Kopet avbrutet.";
+"error.pending" = "Kopet vantar pa godkannande.";
+"error.verification_failed" = "Kopverifiering misslyckades. Kontakta support.";
+"error.nothing_to_restore" = "Inga kop att aterstalla.";
+"error.payment_not_allowed" = "Kop ar inte tillatna pa denna enhet.";
+"error.payment_invalid" = "Ogiltig betalningsinformation.";
+"error.billing_issue" = "Faktureringsproblem. Uppdatera din betalningsmetod.";
+"error.not_entitled" = "Du ar inte berattigad till detta kop.";
+"error.unknown" = "Nagot gick fel. Forsok igen senare.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Prov";
+"picker.today" = "Idag";
+"picker.today.subtitle" = "Obegränsad åtkomst";
+"picker.future.title" = "Om %@";
+"picker.future.subtitle.trial" = "Prenumerationen förnyas automatiskt till %@\nefter provperioden på %@. Avsluta när som helst";
+"picker.future.subtitle.nonTrial" = "Prenumerationen förnyas automatiskt till %@.\nAvsluta när som helst";
+"onboarding.weekly_picker_trial" = "Prenumerera för att låsa upp alla funktioner,\nendast %@ + %@ gratis provperiod";
+"onboarding.weekly_picker_nonTrial" = "Prenumerera för att låsa upp alla funktioner,\nendast %@";
+"duration.days" = "%d dagar";
+"duration.weeks" = "%d v.";
+"duration.months" = "%d mån.";
+"duration.years" = "%d år";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Provperiod ej tillgänglig";
+"alert.trial_expired.message" = "Du har redan använt din kostnadsfria provperiod. Du kan prenumerera utan provperiod.";
+
+"picker.segment.trial" = "3 dagar";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Starta en gratis provperiod";
+"onboarding.message.nonTrial" = "Osäker än? Starta en gratis provperiod";

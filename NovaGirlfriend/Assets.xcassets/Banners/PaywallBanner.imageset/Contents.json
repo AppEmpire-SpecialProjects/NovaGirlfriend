@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "iPhone.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "iPad Landscape.pdf",
+      "idiom" : "ipad"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

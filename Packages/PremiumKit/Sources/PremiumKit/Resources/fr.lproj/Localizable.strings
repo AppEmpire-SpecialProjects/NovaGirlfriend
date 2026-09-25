@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "semaine";
+"period.month" = "mois";
+"period.year" = "an";
+"period.day" = "jour";
+"period.one_time" = "unique";
+
+/* Price formats */
+"price.per_week_format" = "Total %@ par semaine";
+"price.limited_offer" = "Offre limitee";
+
+/* Fallback buttons */
+"button.try_free" = "Essayer gratuitement";
+"button.continue" = "Continuer et s'abonner";
+"button.purchase" = "Acheter et continuer";
+"button.limited" = "ou continuer avec la version limitee";
+"button.next" = "Continuer";
+
+/* Alerts */
+"alert.cancel" = "Annuler";
+"alert.retry" = "Reessayer";
+"alert.retry_message" = "Voulez-vous reessayer?";
+"alert.error" = "Erreur";
+
+/* Product */
+"product.trial_title" = "3 jours d'essai gratuit";
+"product.non_trial_subtitle" = "Accès complet pour seulement";
+
+/* Links */
+"links.terms" = "Conditions";
+"links.privacy" = "Confidentialité";
+"links.restore" = "Restaurer";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Acces illimite!";
+"main.button.try_free" = "Essayer gratuitement";
+"main.button.continue" = "Continuer et s'abonner";
+"main.button.purchase" = "Acheter et continuer";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimal";
+"main.weekly_trial.subtitle" = "Essayez 3 jours gratuits, puis";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Hebdomadaire";
+
+"main.monthly.title" = "Populaire";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Mensuel";
+
+"main.yearly.title" = "Meilleure offre";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Annuel";
+
+"main.lifetime.title" = "Acces a vie";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Offre limitee dans le temps";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Accès Illimité";
+"onboarding.button.limited" = "Ou continuer avec la version limitee";
+"onboarding.button.try_free" = "Essai gratuit et abonnement";
+"onboarding.button.continue" = "Continuer et s\u0027abonner";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimal";
+"onboarding.weekly.subtitle" = "Acces complet pour seulement";
+"onboarding.weekly.message" = "Activer l'essai gratuit de 3 jours";
+"onboarding.weekly.periodly" = "Hebdomadaire";
+
+"onboarding.weekly_trial.title" = "Trois jours gratuits";
+"onboarding.weekly_trial.subtitle" = "Essayez 3 jours gratuits puis";
+"onboarding.weekly_trial.message" = "Essai gratuit active";
+"onboarding.weekly_trial.periodly" = "Hebdomadaire";
+
+/* Errors */
+"error.product_unavailable" = "Ce produit est actuellement indisponible. Veuillez reessayer plus tard.";
+"error.network" = "Erreur de connexion. Verifiez votre connexion internet et reessayez.";
+"error.cancelled" = "Achat annule.";
+"error.pending" = "Achat en attente d'approbation.";
+"error.verification_failed" = "Echec de la verification de l'achat. Contactez le support.";
+"error.nothing_to_restore" = "Aucun achat a restaurer.";
+"error.payment_not_allowed" = "Les achats ne sont pas autorises sur cet appareil.";
+"error.payment_invalid" = "Informations de paiement invalides.";
+"error.billing_issue" = "Probleme de facturation. Mettez a jour votre moyen de paiement.";
+"error.not_entitled" = "Vous n'etes pas eligible pour cet achat.";
+"error.unknown" = "Une erreur s'est produite. Veuillez reessayer plus tard.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Essai";
+"picker.today" = "Aujourd'hui";
+"picker.today.subtitle" = "Accès illimité";
+"picker.future.title" = "Dans %@";
+"picker.future.subtitle.trial" = "L'abonnement se renouvelle automatiquement à %@\naprès la période d'essai de %@. Annulez à tout moment";
+"picker.future.subtitle.nonTrial" = "L'abonnement se renouvelle automatiquement à %@.\nAnnulez à tout moment";
+"onboarding.weekly_picker_trial" = "Abonnez-vous pour débloquer toutes les fonctionnalités,\nseulement %@ + %@ d'essai gratuit";
+"onboarding.weekly_picker_nonTrial" = "Abonnez-vous pour débloquer toutes les fonctionnalités,\nseulement %@";
+"duration.days" = "%d jours";
+"duration.weeks" = "%d sem.";
+"duration.months" = "%d mois";
+"duration.years" = "%d an(s)";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Essai non disponible";
+"alert.trial_expired.message" = "Vous avez déjà utilisé votre essai gratuit. Vous pouvez vous abonner sans période d\'essai.";
+
+"picker.segment.trial" = "3 jours";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Commencer un essai gratuit";
+"onboarding.message.nonTrial" = "Vous hésitez encore ? Commencez un essai gratuit";

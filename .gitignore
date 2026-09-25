@@ -1,0 +1,16 @@
+.aigenerator/
+
+*.xcresult
+
+*.db
+
+*.db-shm
+
+*.db-wal
+
+.DS_Store
+
+xcuserdata/
+
+*.xcuserstate
+

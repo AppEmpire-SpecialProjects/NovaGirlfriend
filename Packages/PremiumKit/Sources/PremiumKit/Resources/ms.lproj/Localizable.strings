@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "minggu";
+"period.month" = "bulan";
+"period.year" = "tahun";
+"period.day" = "hari";
+"period.one_time" = "sekali bayar";
+
+/* Price formats */
+"price.per_week_format" = "Jumlah %@ seminggu";
+"price.limited_offer" = "Tawaran terhad";
+
+/* Fallback buttons */
+"button.try_free" = "Cuba percuma";
+"button.continue" = "Teruskan dan langgan";
+"button.purchase" = "Beli dan teruskan";
+"button.limited" = "atau teruskan dengan versi terhad";
+"button.next" = "Teruskan";
+
+/* Alerts */
+"alert.cancel" = "Batal";
+"alert.retry" = "Cuba lagi";
+"alert.retry_message" = "Adakah anda ingin mencuba lagi?";
+"alert.error" = "Ralat";
+
+/* Product */
+"product.trial_title" = "Percubaan percuma 3 hari";
+"product.non_trial_subtitle" = "Dapatkan akses penuh dengan hanya";
+
+/* Links */
+"links.terms" = "Terma penggunaan";
+"links.privacy" = "Dasar privasi";
+"links.restore" = "Pulihkan";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Akses tanpa had!";
+"main.button.try_free" = "Cuba percuma";
+"main.button.continue" = "Teruskan dan langgan";
+"main.button.purchase" = "Beli dan teruskan";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimum";
+"main.weekly_trial.subtitle" = "Cuba 3 hari percuma, kemudian";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Mingguan";
+
+"main.monthly.title" = "Popular";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Bulanan";
+
+"main.yearly.title" = "Tawaran terbaik";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Tahunan";
+
+"main.lifetime.title" = "Akses seumur hidup";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Tawaran terhad";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Akses Tanpa Had";
+"onboarding.button.limited" = "Atau teruskan dengan versi terhad";
+"onboarding.button.try_free" = "Cuba percuma & Langgan";
+"onboarding.button.continue" = "Teruskan & Langgan";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimum";
+"onboarding.weekly.subtitle" = "Akses penuh hanya dengan";
+"onboarding.weekly.message" = "Aktifkan percubaan percuma 3 hari";
+"onboarding.weekly.periodly" = "Mingguan";
+
+"onboarding.weekly_trial.title" = "Tiga hari percuma";
+"onboarding.weekly_trial.subtitle" = "Cuba 3 hari percuma, kemudian";
+"onboarding.weekly_trial.message" = "Percubaan percuma diaktifkan";
+"onboarding.weekly_trial.periodly" = "Mingguan";
+
+/* Errors */
+"error.product_unavailable" = "Produk ini tidak tersedia buat masa ini. Sila cuba lagi kemudian.";
+"error.network" = "Ralat sambungan. Sila semak sambungan internet anda.";
+"error.cancelled" = "Pembelian dibatalkan.";
+"error.pending" = "Pembelian menunggu kelulusan.";
+"error.verification_failed" = "Pengesahan pembelian gagal. Hubungi sokongan.";
+"error.nothing_to_restore" = "Tiada pembelian untuk dipulihkan.";
+"error.payment_not_allowed" = "Pembelian tidak dibenarkan pada peranti ini.";
+"error.payment_invalid" = "Maklumat pembayaran tidak sah.";
+"error.billing_issue" = "Masalah pengebilan. Kemas kini kaedah pembayaran anda.";
+"error.not_entitled" = "Anda tidak layak untuk pembelian ini.";
+"error.unknown" = "Sesuatu tidak kena. Sila cuba lagi kemudian.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Percubaan";
+"picker.today" = "Hari ini";
+"picker.today.subtitle" = "Akses tanpa had";
+"picker.future.title" = "Dalam %@";
+"picker.future.subtitle.trial" = "Langganan diperbaharui secara automatik pada %@\nselepas tempoh percubaan %@. Batalkan bila-bila masa";
+"picker.future.subtitle.nonTrial" = "Langganan diperbaharui secara automatik pada %@.\nBatalkan bila-bila masa";
+"onboarding.weekly_picker_trial" = "Langgan untuk membuka semua ciri,\nhanya %@ + %@ percubaan percuma";
+"onboarding.weekly_picker_nonTrial" = "Langgan untuk membuka semua ciri,\nhanya %@";
+"duration.days" = "%d hari";
+"duration.weeks" = "%d minggu";
+"duration.months" = "%d bulan";
+"duration.years" = "%d tahun";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Percubaan tidak tersedia";
+"alert.trial_expired.message" = "Anda telah menggunakan percubaan percuma anda. Anda boleh melanggan tanpa tempoh percubaan.";
+
+"picker.segment.trial" = "3 hari";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Mulakan Percubaan Percuma";
+"onboarding.message.nonTrial" = "Masih tidak pasti? Mulakan percubaan percuma";

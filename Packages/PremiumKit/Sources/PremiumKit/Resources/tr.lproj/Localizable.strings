@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "hafta";
+"period.month" = "ay";
+"period.year" = "yil";
+"period.day" = "gun";
+"period.one_time" = "tek seferlik";
+
+/* Price formats */
+"price.per_week_format" = "Haftalik toplam %@";
+"price.limited_offer" = "Sinirli sureli teklif";
+
+/* Fallback buttons */
+"button.try_free" = "Ucretsiz dene";
+"button.continue" = "Devam et ve abone ol";
+"button.purchase" = "Satin al ve devam et";
+"button.limited" = "veya sinirli surumle devam et";
+"button.next" = "Devam";
+
+/* Alerts */
+"alert.cancel" = "Iptal";
+"alert.retry" = "Tekrar dene";
+"alert.retry_message" = "Tekrar denemek ister misiniz?";
+"alert.error" = "Hata";
+
+/* Product */
+"product.trial_title" = "3 gun ucretsiz deneme";
+"product.non_trial_subtitle" = "Tam erişim sadece";
+
+/* Links */
+"links.terms" = "Kullanim kosullari";
+"links.privacy" = "Gizlilik politikasi";
+"links.restore" = "Geri yukle";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Sinirsiz erisim!";
+"main.button.try_free" = "Ucretsiz dene";
+"main.button.continue" = "Devam et ve abone ol";
+"main.button.purchase" = "Satin al ve devam et";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimal";
+"main.weekly_trial.subtitle" = "3 gun ucretsiz dene, sonra";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Haftalik";
+
+"main.monthly.title" = "Populer";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Aylik";
+
+"main.yearly.title" = "En iyi teklif";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Yillik";
+
+"main.lifetime.title" = "Omur boyu erisim";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Sinirli sureli teklif";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Sınırsız Erişim";
+"onboarding.button.limited" = "Veya sinirli surumle devam et";
+"onboarding.button.try_free" = "Ücretsiz dene ve abone ol";
+"onboarding.button.continue" = "Devam et ve abone ol";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimal";
+"onboarding.weekly.subtitle" = "Tam erisim sadece";
+"onboarding.weekly.message" = "3 gunluk ucretsiz denemeyi etkinlestir";
+"onboarding.weekly.periodly" = "Haftalik";
+
+"onboarding.weekly_trial.title" = "Uc gun ucretsiz";
+"onboarding.weekly_trial.subtitle" = "3 gun ucretsiz dene, sonra";
+"onboarding.weekly_trial.message" = "Ucretsiz deneme etkinlestirildi";
+"onboarding.weekly_trial.periodly" = "Haftalik";
+
+/* Errors */
+"error.product_unavailable" = "Bu urun su anda mevcut degil. Lutfen daha sonra tekrar deneyin.";
+"error.network" = "Baglanti hatasi. Internet baglantinizi kontrol edin.";
+"error.cancelled" = "Satin alma iptal edildi.";
+"error.pending" = "Satin alma onay bekliyor.";
+"error.verification_failed" = "Satin alma dogrulamasi basarisiz. Destekle iletisime gecin.";
+"error.nothing_to_restore" = "Geri yuklenecek satin alma yok.";
+"error.payment_not_allowed" = "Bu cihazda satin almalara izin verilmiyor.";
+"error.payment_invalid" = "Gecersiz odeme bilgileri.";
+"error.billing_issue" = "Faturalandirma sorunu. Odeme yönteminizi guncelleyin.";
+"error.not_entitled" = "Bu satin alma icin hak sahibi degilsiniz.";
+"error.unknown" = "Bir seyler yanlis gitti. Lutfen daha sonra tekrar deneyin.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Deneme";
+"picker.today" = "Bugün";
+"picker.today.subtitle" = "Sınırsız erişim";
+"picker.future.title" = "%@ içinde";
+"picker.future.subtitle.trial" = "Abonelik %@ deneme süresinden sonra %@ olarak\notomatik yenilenir. İstediğiniz zaman iptal edin";
+"picker.future.subtitle.nonTrial" = "Abonelik %@ olarak otomatik yenilenir.\nİstediğiniz zaman iptal edin";
+"onboarding.weekly_picker_trial" = "Tüm özelliklerin kilidini açmak için abone olun,\nsadece %@ + %@ ücretsiz deneme";
+"onboarding.weekly_picker_nonTrial" = "Tüm özelliklerin kilidini açmak için abone olun,\nsadece %@";
+"duration.days" = "%d gün";
+"duration.weeks" = "%d hft.";
+"duration.months" = "%d ay";
+"duration.years" = "%d yıl";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Deneme kullanılamıyor";
+"alert.trial_expired.message" = "Ücretsiz denemenizi zaten kullandınız. Deneme süresi olmadan abone olabilirsiniz.";
+
+"picker.segment.trial" = "3 gün";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Ücretsiz Denemeyi Başlat";
+"onboarding.message.nonTrial" = "Hâlâ kararsız mısın? Ücretsiz denemeyi başlat";

@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "id": "CC0A731F-59F0-4A0F-8864-A14AF1770D19",
+      "name": "Local StoreKit",
+      "options": {}
+    }
+  ],
+  "defaultOptions": {
+    "storeKitConfigurationFilePath": {
+      "containerPath": "container:NovaGirlfriend.xcodeproj",
+      "relativePath": "NovaGirlfriend/Configuration.storekit"
+    },
+    "targetForVariableExpansion": {
+      "containerPath": "container:NovaGirlfriend.xcodeproj",
+      "identifier": "3CE146183050554600929328",
+      "name": "NovaGirlfriend"
+    }
+  },
+  "testTargets": [
+    {
+      "target": {
+        "containerPath": "container:NovaGirlfriend.xcodeproj",
+        "identifier": "435FE595F22BE2D405A82DCB",
+        "name": "NovaGirlfriendUITests"
+      }
+    }
+  ],
+  "version": 1
+}

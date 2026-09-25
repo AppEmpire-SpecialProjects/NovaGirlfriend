@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "tyzden";
+"period.month" = "mesiac";
+"period.year" = "rok";
+"period.day" = "den";
+"period.one_time" = "jednorazovo";
+
+/* Price formats */
+"price.per_week_format" = "Celkom %@ tyzdenne";
+"price.limited_offer" = "Casovo obmedzena ponuka";
+
+/* Fallback buttons */
+"button.try_free" = "Vyskusat zadarmo";
+"button.continue" = "Pokracovat a predplatit";
+"button.purchase" = "Kupit a pokracovat";
+"button.limited" = "alebo pokracovat s obmedzenou verziou";
+"button.next" = "Pokracovat";
+
+/* Alerts */
+"alert.cancel" = "Zrusit";
+"alert.retry" = "Skusit znova";
+"alert.retry_message" = "Chcete to skusit znova?";
+"alert.error" = "Chyba";
+
+/* Product */
+"product.trial_title" = "3 dni zadarmo";
+"product.non_trial_subtitle" = "Získajte plný prístup len za";
+
+/* Links */
+"links.terms" = "Podmienky pouzivania";
+"links.privacy" = "Zasady ochrany sukromia";
+"links.restore" = "Obnovit";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Neobmedzeny pristup!";
+"main.button.try_free" = "Vyskusat zadarmo";
+"main.button.continue" = "Pokracovat a predplatit";
+"main.button.purchase" = "Kupit a pokracovat";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimálne";
+"main.weekly_trial.subtitle" = "Vyskusajte 3 dni zadarmo, potom";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Tyzdenne";
+
+"main.monthly.title" = "Popularne";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Mesacne";
+
+"main.yearly.title" = "Najlepsia ponuka";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Rocne";
+
+"main.lifetime.title" = "Dozivotny pristup";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Casovo obmedzena ponuka";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Neobmedzený prístup";
+"onboarding.button.limited" = "Alebo pokracovat s obmedzenou verziou";
+"onboarding.button.try_free" = "Vyskúšať zadarmo a predplatiť";
+"onboarding.button.continue" = "Pokračovať a predplatiť";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimalny";
+"onboarding.weekly.subtitle" = "Plny pristup za pouhych";
+"onboarding.weekly.message" = "Aktivovat 3-dnove skusobne obdobie";
+"onboarding.weekly.periodly" = "Tyzdenne";
+
+"onboarding.weekly_trial.title" = "Tri dni zadarmo";
+"onboarding.weekly_trial.subtitle" = "Vyskusajte 3 dni zadarmo, potom";
+"onboarding.weekly_trial.message" = "Skusobne obdobie aktivovane";
+"onboarding.weekly_trial.periodly" = "Tyzdenne";
+
+/* Errors */
+"error.product_unavailable" = "Tento produkt nie je momentalne dostupny. Skuste to neskor.";
+"error.network" = "Chyba pripojenia. Skontrolujte internetove pripojenie.";
+"error.cancelled" = "Nakup zruseny.";
+"error.pending" = "Nakup caka na schvalenie.";
+"error.verification_failed" = "Overenie nakupu zlyhalo. Kontaktujte podporu.";
+"error.nothing_to_restore" = "Ziadne nakupy na obnovenie.";
+"error.payment_not_allowed" = "Nakupy nie su na tomto zariadeni povolene.";
+"error.payment_invalid" = "Neplatne platobne udaje.";
+"error.billing_issue" = "Problem s fakturaciou. Aktualizujte sposob platby.";
+"error.not_entitled" = "Nemate narok na tento nakup.";
+"error.unknown" = "Nieco sa pokazilo. Skuste to neskor.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Skúšobné";
+"picker.today" = "Dnes";
+"picker.today.subtitle" = "Neobmedzený prístup";
+"picker.future.title" = "Za %@";
+"picker.future.subtitle.trial" = "Predplatné sa automaticky obnovuje za %@\npo skúšobnej dobe %@. Zrušte kedykoľvek";
+"picker.future.subtitle.nonTrial" = "Predplatné sa automaticky obnovuje za %@.\nZrušte kedykoľvek";
+"onboarding.weekly_picker_trial" = "Predplaťte si všetky funkcie,\nlen za %@ + %@ skúšobná doba zadarmo";
+"onboarding.weekly_picker_nonTrial" = "Predplaťte si všetky funkcie,\nlen za %@";
+"duration.days" = "%d dní";
+"duration.weeks" = "%d týž.";
+"duration.months" = "%d mes.";
+"duration.years" = "%d r.";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Skúšobná verzia nie je k dispozícii";
+"alert.trial_expired.message" = "Bezplatnú skúšobnú verziu ste už využili. Môžete sa prihlásiť na odber bez skúšobného obdobia.";
+
+"picker.segment.trial" = "3 dni";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Začať bezplatnú skúšku";
+"onboarding.message.nonTrial" = "Ešte nie ste rozhodnutí? Začnite bezplatnú skúšku";

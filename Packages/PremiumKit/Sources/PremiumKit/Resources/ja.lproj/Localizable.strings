@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "週";
+"period.month" = "月";
+"period.year" = "年";
+"period.day" = "日";
+"period.one_time" = "買い切り";
+
+/* Price formats */
+"price.per_week_format" = "週あたり合計 %@";
+"price.limited_offer" = "期間限定オファー";
+
+/* Fallback buttons */
+"button.try_free" = "無料で試す";
+"button.continue" = "続けて購読する";
+"button.purchase" = "購入して続ける";
+"button.limited" = "または制限版で続ける";
+"button.next" = "続ける";
+
+/* Alerts */
+"alert.cancel" = "キャンセル";
+"alert.retry" = "再試行";
+"alert.retry_message" = "もう一度試しますか？";
+"alert.error" = "エラー";
+
+/* Product */
+"product.trial_title" = "3日間無料トライアル";
+"product.non_trial_subtitle" = "フルアクセスをわずか";
+
+/* Links */
+"links.terms" = "利用規約";
+"links.privacy" = "プライバシーポリシー";
+"links.restore" = "復元";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "無制限アクセス！";
+"main.button.try_free" = "無料で試す";
+"main.button.continue" = "続けて購読する";
+"main.button.purchase" = "購入して続ける";
+
+/* Main products */
+"main.weekly_trial.title" = "おすすめ";
+"main.weekly_trial.subtitle" = "3日間無料で試してから";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "週間";
+
+"main.monthly.title" = "人気";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "月間";
+
+"main.yearly.title" = "ベストオファー";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "年間";
+
+"main.lifetime.title" = "永久アクセス";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "期間限定オファー";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "無制限アクセス";
+"onboarding.button.limited" = "または制限版で続ける";
+"onboarding.button.try_free" = "無料で試して購読する";
+"onboarding.button.continue" = "続けて購読する";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "最適";
+"onboarding.weekly.subtitle" = "フルアクセスをわずか";
+"onboarding.weekly.message" = "3日間の無料トライアルを有効にする";
+"onboarding.weekly.periodly" = "週間";
+
+"onboarding.weekly_trial.title" = "3日間無料";
+"onboarding.weekly_trial.subtitle" = "3日間無料で試してから";
+"onboarding.weekly_trial.message" = "無料トライアル有効";
+"onboarding.weekly_trial.periodly" = "週間";
+
+/* Errors */
+"error.product_unavailable" = "この商品は現在利用できません。後でもう一度お試しください。";
+"error.network" = "接続エラー。インターネット接続を確認してください。";
+"error.cancelled" = "購入がキャンセルされました。";
+"error.pending" = "購入は承認待ちです。";
+"error.verification_failed" = "購入の確認に失敗しました。サポートにお問い合わせください。";
+"error.nothing_to_restore" = "復元する購入がありません。";
+"error.payment_not_allowed" = "このデバイスでは購入が許可されていません。";
+"error.payment_invalid" = "支払い情報が無効です。";
+"error.billing_issue" = "請求に問題があります。お支払い方法を更新してください。";
+"error.not_entitled" = "この購入の資格がありません。";
+"error.unknown" = "問題が発生しました。後でもう一度お試しください。";
+
+/* Picker Paywall */
+"picker.badge.trial" = "お試し";
+"picker.today" = "今日";
+"picker.today.subtitle" = "無制限アクセス";
+"picker.future.title" = "%@後";
+"picker.future.subtitle.trial" = "%@のお試し期間後、%@で自動更新されます。\nいつでもキャンセル可能";
+"picker.future.subtitle.nonTrial" = "%@で自動更新されます。\nいつでもキャンセル可能";
+"onboarding.weekly_picker_trial" = "すべての機能をアンロック、\nたった%@ + %@無料お試し";
+"onboarding.weekly_picker_nonTrial" = "すべての機能をアンロック、\nたった%@";
+"duration.days" = "%d日";
+"duration.weeks" = "%d週間";
+"duration.months" = "%dヶ月";
+"duration.years" = "%d年";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "トライアルは利用できません";
+"alert.trial_expired.message" = "無料トライアルはすでに使用済みです。トライアルなしでサブスクリプションに登録できます。";
+
+"picker.segment.trial" = "3日間";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "無料トライアルを開始";
+"onboarding.message.nonTrial" = "まだ迷っていますか？無料トライアルを開始";

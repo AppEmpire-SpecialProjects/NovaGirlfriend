@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyLists-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APP_STORE_ID</key>
+	<string>$(APP_STORE_ID)</string>
+	<key>NovaAIBaseURL</key>
+	<string>$(NOVA_AI_BASE_URL)</string>
+	<key>SUPPORT_EMAIL</key>
+	<string>$(SUPPORT_EMAIL)</string>
+</dict>
+</plist>

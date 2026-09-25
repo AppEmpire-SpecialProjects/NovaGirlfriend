@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "εβδομάδα";
+"period.month" = "μήνας";
+"period.year" = "έτος";
+"period.day" = "ημέρα";
+"period.one_time" = "εφάπαξ";
+
+/* Price formats */
+"price.per_week_format" = "Σύνολο %@ την εβδομάδα";
+"price.limited_offer" = "Περιορισμένη προσφορά";
+
+/* Fallback buttons */
+"button.try_free" = "Δοκιμάστε δωρεάν";
+"button.continue" = "Συνέχεια και εγγραφή";
+"button.purchase" = "Αγορά και συνέχεια";
+"button.limited" = "ή συνεχίστε με περιορισμένη έκδοση";
+"button.next" = "Συνέχεια";
+
+/* Alerts */
+"alert.cancel" = "Ακύρωση";
+"alert.retry" = "Δοκιμάστε ξανά";
+"alert.retry_message" = "Θέλετε να δοκιμάσετε ξανά;";
+"alert.error" = "Σφάλμα";
+
+/* Product */
+"product.trial_title" = "3 ημέρες δωρεάν δοκιμή";
+"product.non_trial_subtitle" = "Αποκτήστε πλήρη πρόσβαση για μόνο";
+
+/* Links */
+"links.terms" = "Όροι χρήσης";
+"links.privacy" = "Πολιτική απορρήτου";
+"links.restore" = "Επαναφορά";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Απεριόριστη πρόσβαση!";
+"main.button.try_free" = "Δοκιμάστε δωρεάν";
+"main.button.continue" = "Συνέχεια και εγγραφή";
+"main.button.purchase" = "Αγορά και συνέχεια";
+
+/* Main products */
+"main.weekly_trial.title" = "Βέλτιστο";
+"main.weekly_trial.subtitle" = "Δοκιμάστε 3 ημέρες δωρεάν, μετά";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Εβδομαδιαία";
+
+"main.monthly.title" = "Δημοφιλές";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Μηνιαία";
+
+"main.yearly.title" = "Καλύτερη προσφορά";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Ετήσια";
+
+"main.lifetime.title" = "Ισόβια πρόσβαση";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Περιορισμένη προσφορά";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Απεριόριστη Πρόσβαση";
+"onboarding.button.limited" = "Ή συνεχίστε με περιορισμένη έκδοση";
+"onboarding.button.try_free" = "Δοκιμάστε δωρεάν & Εγγραφείτε";
+"onboarding.button.continue" = "Συνέχεια & Εγγραφή";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Βέλτιστο";
+"onboarding.weekly.subtitle" = "Πλήρης πρόσβαση μόνο";
+"onboarding.weekly.message" = "Ενεργοποίηση 3 ημερών δωρεάν δοκιμής";
+"onboarding.weekly.periodly" = "Εβδομαδιαία";
+
+"onboarding.weekly_trial.title" = "Τρεις ημέρες δωρεάν";
+"onboarding.weekly_trial.subtitle" = "Δοκιμάστε 3 ημέρες δωρεάν, μετά";
+"onboarding.weekly_trial.message" = "Δωρεάν δοκιμή ενεργοποιήθηκε";
+"onboarding.weekly_trial.periodly" = "Εβδομαδιαία";
+
+/* Errors */
+"error.product_unavailable" = "Αυτό το προϊόν δεν είναι διαθέσιμο αυτή τη στιγμή. Δοκιμάστε αργότερα.";
+"error.network" = "Σφάλμα σύνδεσης. Ελέγξτε τη σύνδεσή σας στο διαδίκτυο.";
+"error.cancelled" = "Η αγορά ακυρώθηκε.";
+"error.pending" = "Η αγορά αναμένει έγκριση.";
+"error.verification_failed" = "Η επαλήθευση αγοράς απέτυχε. Επικοινωνήστε με την υποστήριξη.";
+"error.nothing_to_restore" = "Δεν υπάρχουν αγορές για επαναφορά.";
+"error.payment_not_allowed" = "Οι αγορές δεν επιτρέπονται σε αυτή τη συσκευή.";
+"error.payment_invalid" = "Μη έγκυρα στοιχεία πληρωμής.";
+"error.billing_issue" = "Πρόβλημα χρέωσης. Ενημερώστε τη μέθοδο πληρωμής σας.";
+"error.not_entitled" = "Δεν δικαιούστε αυτή την αγορά.";
+"error.unknown" = "Κάτι πήγε στραβά. Δοκιμάστε αργότερα.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Δοκιμή";
+"picker.today" = "Σήμερα";
+"picker.today.subtitle" = "Απεριόριστη πρόσβαση";
+"picker.future.title" = "Σε %@";
+"picker.future.subtitle.trial" = "Η συνδρομή ανανεώνεται αυτόματα στα %@\nμετά τη δοκιμαστική περίοδο %@. Ακύρωση ανά πάσα στιγμή";
+"picker.future.subtitle.nonTrial" = "Η συνδρομή ανανεώνεται αυτόματα στα %@.\nΑκύρωση ανά πάσα στιγμή";
+"onboarding.weekly_picker_trial" = "Εγγραφείτε για να ξεκλειδώσετε όλες τις λειτουργίες,\nμόνο %@ + %@ δωρεάν δοκιμή";
+"onboarding.weekly_picker_nonTrial" = "Εγγραφείτε για να ξεκλειδώσετε όλες τις λειτουργίες,\nμόνο %@";
+"duration.days" = "%d ημέρες";
+"duration.weeks" = "%d εβδ.";
+"duration.months" = "%d μήνες";
+"duration.years" = "%d έτη";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Η δοκιμή δεν είναι διαθέσιμη";
+"alert.trial_expired.message" = "Έχετε ήδη χρησιμοποιήσει τη δωρεάν δοκιμή σας. Μπορείτε να εγγραφείτε χωρίς δοκιμαστική περίοδο.";
+
+"picker.segment.trial" = "3 ημέρες";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Ξεκινήστε δωρεάν δοκιμή";
+"onboarding.message.nonTrial" = "Δεν είστε σίγουροι ακόμη; Ξεκινήστε δωρεάν δοκιμή";

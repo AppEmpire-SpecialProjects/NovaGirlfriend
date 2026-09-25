@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "teden";
+"period.month" = "mesec";
+"period.year" = "leto";
+"period.day" = "dan";
+"period.one_time" = "enkratno";
+
+/* Price formats */
+"price.per_week_format" = "Skupaj %@ na teden";
+"price.limited_offer" = "Casovno omejena ponudba";
+
+/* Fallback buttons */
+"button.try_free" = "Preizkusi brezplacno";
+"button.continue" = "Nadaljuj in se narocni";
+"button.purchase" = "Kupi in nadaljuj";
+"button.limited" = "ali nadaljuj z omejeno razlicico";
+"button.next" = "Nadaljuj";
+
+/* Alerts */
+"alert.cancel" = "Preklici";
+"alert.retry" = "Poskusi znova";
+"alert.retry_message" = "Zelite poskusiti znova?";
+"alert.error" = "Napaka";
+
+/* Product */
+"product.trial_title" = "3 dni brezplacno";
+"product.non_trial_subtitle" = "Dobite poln dostop za samo";
+
+/* Links */
+"links.terms" = "Pogoji uporabe";
+"links.privacy" = "Pravilnik o zasebnosti";
+"links.restore" = "Obnovi";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Neomejen dostop!";
+"main.button.try_free" = "Preizkusi brezplacno";
+"main.button.continue" = "Nadaljuj in se narocni";
+"main.button.purchase" = "Kupi in nadaljuj";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimalno";
+"main.weekly_trial.subtitle" = "Preizkusi 3 dni brezplacno, nato";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Tedensko";
+
+"main.monthly.title" = "Priljubljeno";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Mesecno";
+
+"main.yearly.title" = "Najboljsa ponudba";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Letno";
+
+"main.lifetime.title" = "Dozivljenjski dostop";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Casovno omejena ponudba";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Neomejen dostop";
+"onboarding.button.limited" = "Ali nadaljuj z omejeno razlicico";
+"onboarding.button.try_free" = "Preizkusi brezplačno in se naroči";
+"onboarding.button.continue" = "Nadaljuj in se naroči";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimalno";
+"onboarding.weekly.subtitle" = "Poln dostop za samo";
+"onboarding.weekly.message" = "Aktiviraj 3-dnevno preizkusno obdobje";
+"onboarding.weekly.periodly" = "Tedensko";
+
+"onboarding.weekly_trial.title" = "Tri dni brezplacno";
+"onboarding.weekly_trial.subtitle" = "Preizkusi 3 dni brezplacno, nato";
+"onboarding.weekly_trial.message" = "Preizkusno obdobje aktivirano";
+"onboarding.weekly_trial.periodly" = "Tedensko";
+
+/* Errors */
+"error.product_unavailable" = "Ta izdelek trenutno ni na voljo. Poskusite pozneje.";
+"error.network" = "Napaka povezave. Preverite internetno povezavo.";
+"error.cancelled" = "Nakup preklican.";
+"error.pending" = "Nakup caka na odobritev.";
+"error.verification_failed" = "Preverjanje nakupa ni uspelo. Obrnite se na podporo.";
+"error.nothing_to_restore" = "Ni nakupov za obnovitev.";
+"error.payment_not_allowed" = "Nakupi niso dovoljeni na tej napravi.";
+"error.payment_invalid" = "Neveljavni podatki o placilu.";
+"error.billing_issue" = "Tezava z obracunavanjem. Posodobite nacin placila.";
+"error.not_entitled" = "Nimate pravice do tega nakupa.";
+"error.unknown" = "Nekaj je slo narobe. Poskusite pozneje.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Preizkus";
+"picker.today" = "Danes";
+"picker.today.subtitle" = "Neomejen dostop";
+"picker.future.title" = "Čez %@";
+"picker.future.subtitle.trial" = "Naročnina se samodejno podaljša za %@\npo preizkusnem obdobju %@. Prekličite kadarkoli";
+"picker.future.subtitle.nonTrial" = "Naročnina se samodejno podaljša za %@.\nPrekličite kadarkoli";
+"onboarding.weekly_picker_trial" = "Naročite se za odklepanje vseh funkcij,\nle %@ + %@ brezplačno preizkusno obdobje";
+"onboarding.weekly_picker_nonTrial" = "Naročite se za odklepanje vseh funkcij,\nle %@";
+"duration.days" = "%d dni";
+"duration.weeks" = "%d ted.";
+"duration.months" = "%d mes.";
+"duration.years" = "%d let";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Preizkus ni na voljo";
+"alert.trial_expired.message" = "Brezplačni preizkus ste že izkoristili. Naročite se lahko brez preizkusnega obdobja.";
+
+"picker.segment.trial" = "3 dni";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Začnite brezplačno preizkusno obdobje";
+"onboarding.message.nonTrial" = "Še niste prepričani? Začnite brezplačno preizkusno obdobje";

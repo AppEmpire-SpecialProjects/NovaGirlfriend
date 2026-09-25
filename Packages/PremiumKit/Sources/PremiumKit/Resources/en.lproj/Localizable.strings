@@ -1,0 +1,115 @@
+/* Periods - short */
+"period.week" = "week";
+"period.month" = "month";
+"period.year" = "year";
+"period.day" = "day";
+"period.one_time" = "one time";
+
+/* Price formats */
+"price.per_week_format" = "Total %@ per week";
+"price.limited_offer" = "Limited Time Offer";
+
+/* Fallback buttons */
+"button.try_free" = "Try free & subscribe";
+"button.continue" = "Continue & subscribe";
+"button.purchase" = "Purchase & continue";
+"button.limited" = "or proceed with limited version";
+"button.next" = "Continue";
+
+/* Alerts */
+"alert.cancel" = "Cancel";
+"alert.retry" = "Retry";
+"alert.retry_message" = "Would you like to try again?";
+"alert.error" = "Error";
+
+/* Product */
+"product.trial_title" = "3 days free trial";
+"product.non_trial_subtitle" = "Get full access for just";
+
+/* Links */
+"links.terms" = "Terms of use";
+"links.privacy" = "Privacy Policy";
+"links.restore" = "Restore";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Unlimited access!";
+"main.button.try_free" = "Try free & subscribe";
+"main.button.continue" = "Continue & subscribe";
+"main.button.purchase" = "Purchase & continue";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimal";
+"main.weekly_trial.subtitle" = "Try 3 days free, then";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Weekly";
+
+"main.monthly.title" = "Popular";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Monthly";
+
+"main.yearly.title" = "Best deal";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Yearly";
+
+"main.lifetime.title" = "Life time deal";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "This is a limited time offer";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Unlimited Access";
+"onboarding.button.limited" = "Or proceed with limited version";
+"onboarding.button.try_free" = "Try free & Subscribe";
+"onboarding.button.continue" = "Continue & Subscribe";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimal";
+"onboarding.weekly.subtitle" = "Get full access for just";
+"onboarding.weekly.message" = "Enable a 3 days free trial";
+"onboarding.weekly.periodly" = "Weekly";
+
+"onboarding.weekly_trial.title" = "Three days free";
+"onboarding.weekly_trial.subtitle" = "Try 3 days free then";
+"onboarding.weekly_trial.message" = "Free trial enabled";
+"onboarding.weekly_trial.periodly" = "Weekly";
+
+/* Errors */
+"error.product_unavailable" = "This product is currently unavailable. Please try again later.";
+"error.network" = "Connection error. Please check your internet and try again.";
+"error.cancelled" = "Purchase cancelled.";
+"error.pending" = "Purchase is pending approval. You'll get access once it's approved.";
+"error.verification_failed" = "Purchase verification failed. Please contact support if this persists.";
+"error.nothing_to_restore" = "No purchases to restore.";
+"error.payment_not_allowed" = "Purchases are not allowed on this device. Please check your device settings or parental controls.";
+"error.payment_invalid" = "Payment information is invalid. Please update your payment method in App Store settings.";
+"error.billing_issue" = "There's a problem with your billing. Please update your payment method in App Store settings.";
+"error.not_entitled" = "You are not eligible for this purchase. Please sign in with a valid Apple ID.";
+"error.unknown" = "Something went wrong. Please try again later.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Trial";
+"picker.today" = "Today";
+"picker.today.subtitle" = "Enjoy unlimited access";
+"picker.future.title" = "In %@";
+"picker.future.subtitle.trial" = "Subscription auto-renews at %@\nafter the %@ trial. Cancel anytime";
+"picker.future.subtitle.nonTrial" = "Subscription auto-renews at %@.\nCancel anytime";
+"onboarding.weekly_picker_trial" = "Subscribe to unlock all the features, just\nfor %@ + %@ free trial";
+"onboarding.weekly_picker_nonTrial" = "Subscribe to unlock all the features,\njust for %@";
+
+/* Duration formats */
+"duration.days" = "%d days";
+"duration.weeks" = "%d week";
+"duration.months" = "%d months";
+"duration.years" = "%d years";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Trial Unavailable";
+"alert.trial_expired.message" = "You\'ve already used your free trial. You can subscribe without a trial period.";
+
+"picker.segment.trial" = "3 days";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Start A Free Trial";
+"onboarding.message.nonTrial" = "Not sure yet? Start a free trial";

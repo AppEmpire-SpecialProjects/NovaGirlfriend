@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "het";
+"period.month" = "honap";
+"period.year" = "ev";
+"period.day" = "nap";
+"period.one_time" = "egyszeri";
+
+/* Price formats */
+"price.per_week_format" = "Osszesen %@ hetente";
+"price.limited_offer" = "Korlatozott ideju ajanlat";
+
+/* Fallback buttons */
+"button.try_free" = "Ingyenes probaverzio";
+"button.continue" = "Folytatás és feliratkozas";
+"button.purchase" = "Megvasarlas és folytatas";
+"button.limited" = "vagy folytatas a korlatozott verzioval";
+"button.next" = "Folytatas";
+
+/* Alerts */
+"alert.cancel" = "Megse";
+"alert.retry" = "Ujraproba";
+"alert.retry_message" = "Szeretne ujra probalni?";
+"alert.error" = "Hiba";
+
+/* Product */
+"product.trial_title" = "3 napos ingyenes proba";
+"product.non_trial_subtitle" = "Teljes hozzáférés mindössze";
+
+/* Links */
+"links.terms" = "Felhasznalasi feltetelek";
+"links.privacy" = "Adatvedelmi iranyelv";
+"links.restore" = "Visszaallitas";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Korlatlan hozzaferes!";
+"main.button.try_free" = "Ingyenes probaverzio";
+"main.button.continue" = "Folytatas és feliratkozas";
+"main.button.purchase" = "Megvasarlas és folytatas";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimális";
+"main.weekly_trial.subtitle" = "Probalja ki 3 napig ingyen, utana";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Hetente";
+
+"main.monthly.title" = "Nepszeru";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Havonta";
+
+"main.yearly.title" = "Legjobb ajanlat";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Evente";
+
+"main.lifetime.title" = "Elethoszszig tarto hozzaferes";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Korlatozott ideju ajanlat";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Korlátlan hozzáférés";
+"onboarding.button.limited" = "Vagy folytatas a korlatozott verzioval";
+"onboarding.button.try_free" = "Próbáld ki ingyen és fizess elő";
+"onboarding.button.continue" = "Folytatás és előfizetés";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimalis";
+"onboarding.weekly.subtitle" = "Teljes hozzaferes csupan";
+"onboarding.weekly.message" = "3 napos proba aktivalasa";
+"onboarding.weekly.periodly" = "Hetente";
+
+"onboarding.weekly_trial.title" = "Harom nap ingyen";
+"onboarding.weekly_trial.subtitle" = "Probalja ki 3 napig ingyen, utana";
+"onboarding.weekly_trial.message" = "Proba aktivalva";
+"onboarding.weekly_trial.periodly" = "Hetente";
+
+/* Errors */
+"error.product_unavailable" = "Ez a termek jelenleg nem elerheto. Probalkozzon kesobb.";
+"error.network" = "Kapcsolati hiba. Ellenorizze az internetkapcsolatot.";
+"error.cancelled" = "Vasarlas megszakitva.";
+"error.pending" = "Vasarlas jovahagyasra var.";
+"error.verification_failed" = "Vasarlas ellenorzese sikertelen. Lepjen kapcsolatba a tamogatassal.";
+"error.nothing_to_restore" = "Nincs visszaallithato vasarlas.";
+"error.payment_not_allowed" = "Vasarlasok nem engedelyezettek ezen az eszkozön.";
+"error.payment_invalid" = "Ervenytelen fizetesi adatok.";
+"error.billing_issue" = "Szamlazasi problema. Frissitse a fizetesi modot.";
+"error.not_entitled" = "Nem jogosult erre a vasarlasra.";
+"error.unknown" = "Valami hiba törtent. Probalkozzon kesobb.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Próba";
+"picker.today" = "Ma";
+"picker.today.subtitle" = "Korlátlan hozzáférés";
+"picker.future.title" = "%@ múlva";
+"picker.future.subtitle.trial" = "Az előfizetés automatikusan megújul %@ áron\na %@ próbaidőszak után. Bármikor lemondható";
+"picker.future.subtitle.nonTrial" = "Az előfizetés automatikusan megújul %@ áron.\nBármikor lemondható";
+"onboarding.weekly_picker_trial" = "Iratkozz fel az összes funkció eléréséhez,\ncsak %@ + %@ ingyenes próbaidőszak";
+"onboarding.weekly_picker_nonTrial" = "Iratkozz fel az összes funkció eléréséhez,\ncsak %@";
+"duration.days" = "%d nap";
+"duration.weeks" = "%d hét";
+"duration.months" = "%d hónap";
+"duration.years" = "%d év";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Próbaidőszak nem elérhető";
+"alert.trial_expired.message" = "Már felhasználta az ingyenes próbaidőszakot. Próbaidőszak nélkül is előfizethet.";
+
+"picker.segment.trial" = "3 nap";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Ingyenes próba indítása";
+"onboarding.message.nonTrial" = "Még bizonytalan? Indítson ingyenes próbát";

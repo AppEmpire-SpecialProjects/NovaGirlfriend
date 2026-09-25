@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "тиждень";
+"period.month" = "місяць";
+"period.year" = "рік";
+"period.day" = "день";
+"period.one_time" = "одноразово";
+
+/* Price formats */
+"price.per_week_format" = "Всього %@ на тиждень";
+"price.limited_offer" = "Обмежена пропозиція";
+
+/* Fallback buttons */
+"button.try_free" = "Спробувати безкоштовно";
+"button.continue" = "Продовжити і підписатися";
+"button.purchase" = "Купити і продовжити";
+"button.limited" = "або продовжити з обмеженою версією";
+"button.next" = "Продовжити";
+
+/* Alerts */
+"alert.cancel" = "Скасувати";
+"alert.retry" = "Спробувати знову";
+"alert.retry_message" = "Бажаєте спробувати знову?";
+"alert.error" = "Помилка";
+
+/* Product */
+"product.trial_title" = "3 дні безкоштовно";
+"product.non_trial_subtitle" = "Повний доступ лише за";
+
+/* Links */
+"links.terms" = "Умови використання";
+"links.privacy" = "Політика конфіденційності";
+"links.restore" = "Відновити";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Необмежений доступ!";
+"main.button.try_free" = "Спробувати безкоштовно";
+"main.button.continue" = "Продовжити і підписатися";
+"main.button.purchase" = "Купити і продовжити";
+
+/* Main products */
+"main.weekly_trial.title" = "Оптимально";
+"main.weekly_trial.subtitle" = "Спробуйте 3 дні безкоштовно, потім";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Щотижня";
+
+"main.monthly.title" = "Популярний";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Щомісяця";
+
+"main.yearly.title" = "Найкраща пропозиція";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Щороку";
+
+"main.lifetime.title" = "Довічний доступ";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Обмежена пропозиція";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Необмежений доступ";
+"onboarding.button.limited" = "Або продовжити з обмеженою версією";
+"onboarding.button.try_free" = "Спробувати безкоштовно і підписатися";
+"onboarding.button.continue" = "Продовжити і підписатися";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Оптимальний";
+"onboarding.weekly.subtitle" = "Повний доступ лише за";
+"onboarding.weekly.message" = "Активувати 3-денний пробний період";
+"onboarding.weekly.periodly" = "Щотижня";
+
+"onboarding.weekly_trial.title" = "Три дні безкоштовно";
+"onboarding.weekly_trial.subtitle" = "Спробуйте 3 дні безкоштовно, потім";
+"onboarding.weekly_trial.message" = "Пробний період активовано";
+"onboarding.weekly_trial.periodly" = "Щотижня";
+
+/* Errors */
+"error.product_unavailable" = "Цей продукт зараз недоступний. Спробуйте пізніше.";
+"error.network" = "Помилка з'єднання. Перевірте інтернет-з'єднання.";
+"error.cancelled" = "Покупку скасовано.";
+"error.pending" = "Покупка очікує схвалення.";
+"error.verification_failed" = "Помилка верифікації покупки. Зверніться до підтримки.";
+"error.nothing_to_restore" = "Немає покупок для відновлення.";
+"error.payment_not_allowed" = "Покупки не дозволені на цьому пристрої.";
+"error.payment_invalid" = "Недійсні платіжні дані.";
+"error.billing_issue" = "Проблема з оплатою. Оновіть спосіб оплати.";
+"error.not_entitled" = "Ви не маєте права на цю покупку.";
+"error.unknown" = "Щось пішло не так. Спробуйте пізніше.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Пробний";
+"picker.today" = "Сьогодні";
+"picker.today.subtitle" = "Безлімітний доступ";
+"picker.future.title" = "Через %@";
+"picker.future.subtitle.trial" = "Підписка автоматично поновлюється за %@\nпісля пробного періоду %@. Скасування в будь-який час";
+"picker.future.subtitle.nonTrial" = "Підписка автоматично поновлюється за %@.\nСкасування в будь-який час";
+"onboarding.weekly_picker_trial" = "Підпишіться на всі функції,\nлише за %@ + %@ безкоштовний пробний період";
+"onboarding.weekly_picker_nonTrial" = "Підпишіться на всі функції,\nлише за %@";
+"duration.days" = "%d дн.";
+"duration.weeks" = "%d тиж.";
+"duration.months" = "%d міс.";
+"duration.years" = "%d р.";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Пробний період недоступний";
+"alert.trial_expired.message" = "Ви вже використали безкоштовний пробний період. Ви можете оформити підписку без пробного періоду.";
+
+"picker.segment.trial" = "3 дні";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Почати безкоштовний період";
+"onboarding.message.nonTrial" = "Ще не впевнені? Почніть безкоштовний період";

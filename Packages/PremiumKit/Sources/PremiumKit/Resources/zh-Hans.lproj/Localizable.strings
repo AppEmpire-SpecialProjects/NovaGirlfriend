@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "周";
+"period.month" = "月";
+"period.year" = "年";
+"period.day" = "天";
+"period.one_time" = "一次性";
+
+/* Price formats */
+"price.per_week_format" = "每周共 %@";
+"price.limited_offer" = "限时优惠";
+
+/* Fallback buttons */
+"button.try_free" = "免费试用";
+"button.continue" = "继续并订阅";
+"button.purchase" = "购买并继续";
+"button.limited" = "或使用受限版本继续";
+"button.next" = "继续";
+
+/* Alerts */
+"alert.cancel" = "取消";
+"alert.retry" = "重试";
+"alert.retry_message" = "您想再试一次吗？";
+"alert.error" = "错误";
+
+/* Product */
+"product.trial_title" = "3天免费试用";
+"product.non_trial_subtitle" = "完整访问仅需";
+
+/* Links */
+"links.terms" = "使用条款";
+"links.privacy" = "隐私政策";
+"links.restore" = "恢复购买";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "无限访问！";
+"main.button.try_free" = "免费试用";
+"main.button.continue" = "继续并订阅";
+"main.button.purchase" = "购买并继续";
+
+/* Main products */
+"main.weekly_trial.title" = "最优选择";
+"main.weekly_trial.subtitle" = "免费试用3天，之后";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "每周";
+
+"main.monthly.title" = "热门";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "每月";
+
+"main.yearly.title" = "最佳优惠";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "每年";
+
+"main.lifetime.title" = "终身访问";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "限时优惠";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "无限访问";
+"onboarding.button.limited" = "或使用受限版本继续";
+"onboarding.button.try_free" = "免费试用并订阅";
+"onboarding.button.continue" = "继续并订阅";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "最优";
+"onboarding.weekly.subtitle" = "完整访问仅需";
+"onboarding.weekly.message" = "激活3天免费试用";
+"onboarding.weekly.periodly" = "每周";
+
+"onboarding.weekly_trial.title" = "三天免费";
+"onboarding.weekly_trial.subtitle" = "免费试用3天，之后";
+"onboarding.weekly_trial.message" = "免费试用已激活";
+"onboarding.weekly_trial.periodly" = "每周";
+
+/* Errors */
+"error.product_unavailable" = "此产品目前不可用。请稍后再试。";
+"error.network" = "连接错误。请检查您的网络连接。";
+"error.cancelled" = "购买已取消。";
+"error.pending" = "购买等待批准。";
+"error.verification_failed" = "购买验证失败。请联系支持。";
+"error.nothing_to_restore" = "没有可恢复的购买。";
+"error.payment_not_allowed" = "此设备不允许购买。";
+"error.payment_invalid" = "支付信息无效。";
+"error.billing_issue" = "账单问题。请更新您的付款方式。";
+"error.not_entitled" = "您没有资格进行此购买。";
+"error.unknown" = "出了点问题。请稍后再试。";
+
+/* Picker Paywall */
+"picker.badge.trial" = "试用";
+"picker.today" = "今天";
+"picker.today.subtitle" = "享受无限访问";
+"picker.future.title" = "%@后";
+"picker.future.subtitle.trial" = "订阅在%@试用期后以%@自动续费。\n随时取消";
+"picker.future.subtitle.nonTrial" = "订阅以%@自动续费。\n随时取消";
+"onboarding.weekly_picker_trial" = "订阅解锁所有功能，\n仅需%@ + %@免费试用";
+"onboarding.weekly_picker_nonTrial" = "订阅解锁所有功能，\n仅需%@";
+"duration.days" = "%d天";
+"duration.weeks" = "%d周";
+"duration.months" = "%d个月";
+"duration.years" = "%d年";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "试用不可用";
+"alert.trial_expired.message" = "您已使用过免费试用。您可以直接订阅，无需试用期。";
+
+"picker.segment.trial" = "3天";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "开始免费试用";
+"onboarding.message.nonTrial" = "还在犹豫？开始免费试用";

@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "أسبوع";
+"period.month" = "شهر";
+"period.year" = "سنة";
+"period.day" = "يوم";
+"period.one_time" = "مرة واحدة";
+
+/* Price formats */
+"price.per_week_format" = "المجموع %@ في الأسبوع";
+"price.limited_offer" = "عرض لفترة محدودة";
+
+/* Fallback buttons */
+"button.try_free" = "جرب مجاناً";
+"button.continue" = "متابعة والاشتراك";
+"button.purchase" = "شراء ومتابعة";
+"button.limited" = "أو تابع بالنسخة المحدودة";
+"button.next" = "متابعة";
+
+/* Alerts */
+"alert.cancel" = "إلغاء";
+"alert.retry" = "إعادة المحاولة";
+"alert.retry_message" = "هل تريد المحاولة مرة أخرى؟";
+"alert.error" = "خطأ";
+
+/* Product */
+"product.trial_title" = "تجربة مجانية لمدة 3 أيام";
+"product.non_trial_subtitle" = "احصل على وصول كامل مقابل فقط";
+
+/* Links */
+"links.terms" = "شروط الاستخدام";
+"links.privacy" = "سياسة الخصوصية";
+"links.restore" = "استعادة";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "وصول غير محدود!";
+"main.button.try_free" = "جرب مجاناً";
+"main.button.continue" = "متابعة والاشتراك";
+"main.button.purchase" = "شراء ومتابعة";
+
+/* Main products */
+"main.weekly_trial.title" = "الأمثل";
+"main.weekly_trial.subtitle" = "جرب 3 أيام مجاناً، ثم";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "أسبوعي";
+
+"main.monthly.title" = "الأكثر شعبية";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "شهري";
+
+"main.yearly.title" = "أفضل عرض";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "سنوي";
+
+"main.lifetime.title" = "وصول مدى الحياة";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "عرض لفترة محدودة";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "وصول غير محدود";
+"onboarding.button.limited" = "أو تابع بالنسخة المحدودة";
+"onboarding.button.try_free" = "جرّب مجاناً واشترك";
+"onboarding.button.continue" = "متابعة والاشتراك";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "الأمثل";
+"onboarding.weekly.subtitle" = "وصول كامل بـ";
+"onboarding.weekly.message" = "تفعيل التجربة المجانية لمدة 3 أيام";
+"onboarding.weekly.periodly" = "أسبوعي";
+
+"onboarding.weekly_trial.title" = "ثلاثة أيام مجاناً";
+"onboarding.weekly_trial.subtitle" = "جرب 3 أيام مجاناً، ثم";
+"onboarding.weekly_trial.message" = "تم تفعيل التجربة المجانية";
+"onboarding.weekly_trial.periodly" = "أسبوعي";
+
+/* Errors */
+"error.product_unavailable" = "هذا المنتج غير متوفر حالياً. يرجى المحاولة لاحقاً.";
+"error.network" = "خطأ في الاتصال. يرجى التحقق من اتصالك بالإنترنت.";
+"error.cancelled" = "تم إلغاء الشراء.";
+"error.pending" = "الشراء في انتظار الموافقة.";
+"error.verification_failed" = "فشل التحقق من الشراء. يرجى الاتصال بالدعم.";
+"error.nothing_to_restore" = "لا توجد مشتريات للاستعادة.";
+"error.payment_not_allowed" = "المشتريات غير مسموح بها على هذا الجهاز.";
+"error.payment_invalid" = "معلومات الدفع غير صالحة.";
+"error.billing_issue" = "مشكلة في الفوترة. يرجى تحديث طريقة الدفع.";
+"error.not_entitled" = "أنت غير مؤهل لهذا الشراء.";
+"error.unknown" = "حدث خطأ ما. يرجى المحاولة لاحقاً.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "تجربة";
+"picker.today" = "اليوم";
+"picker.today.subtitle" = "وصول غير محدود";
+"picker.future.title" = "خلال %@";
+"picker.future.subtitle.trial" = "يتم تجديد الاشتراك تلقائياً بسعر %@\nبعد فترة التجربة %@. إلغاء في أي وقت";
+"picker.future.subtitle.nonTrial" = "يتم تجديد الاشتراك تلقائياً بسعر %@.\nإلغاء في أي وقت";
+"onboarding.weekly_picker_trial" = "اشترك لفتح جميع الميزات،\nفقط %@ + %@ تجربة مجانية";
+"onboarding.weekly_picker_nonTrial" = "اشترك لفتح جميع الميزات،\nفقط %@";
+"duration.days" = "%d أيام";
+"duration.weeks" = "%d أسبوع";
+"duration.months" = "%d شهر";
+"duration.years" = "%d سنة";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "الفترة التجريبية غير متاحة";
+"alert.trial_expired.message" = "لقد استخدمت الفترة التجريبية المجانية بالفعل. يمكنك الاشتراك بدون فترة تجريبية.";
+
+"picker.segment.trial" = "3 أيام";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "ابدأ فترة تجريبية مجانية";
+"onboarding.message.nonTrial" = "لست متأكداً بعد؟ ابدأ فترة تجريبية مجانية";

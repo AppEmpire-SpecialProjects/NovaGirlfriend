@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "minggu";
+"period.month" = "bulan";
+"period.year" = "tahun";
+"period.day" = "hari";
+"period.one_time" = "sekali bayar";
+
+/* Price formats */
+"price.per_week_format" = "Total %@ per minggu";
+"price.limited_offer" = "Penawaran terbatas";
+
+/* Fallback buttons */
+"button.try_free" = "Coba gratis";
+"button.continue" = "Lanjutkan dan berlangganan";
+"button.purchase" = "Beli dan lanjutkan";
+"button.limited" = "atau lanjutkan dengan versi terbatas";
+"button.next" = "Lanjutkan";
+
+/* Alerts */
+"alert.cancel" = "Batal";
+"alert.retry" = "Coba lagi";
+"alert.retry_message" = "Apakah Anda ingin mencoba lagi?";
+"alert.error" = "Kesalahan";
+
+/* Product */
+"product.trial_title" = "Uji coba gratis 3 hari";
+"product.non_trial_subtitle" = "Dapatkan akses penuh hanya";
+
+/* Links */
+"links.terms" = "Ketentuan penggunaan";
+"links.privacy" = "Kebijakan privasi";
+"links.restore" = "Pulihkan";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Akses tanpa batas!";
+"main.button.try_free" = "Coba gratis";
+"main.button.continue" = "Lanjutkan dan berlangganan";
+"main.button.purchase" = "Beli dan lanjutkan";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimal";
+"main.weekly_trial.subtitle" = "Coba 3 hari gratis, lalu";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Mingguan";
+
+"main.monthly.title" = "Populer";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Bulanan";
+
+"main.yearly.title" = "Penawaran terbaik";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Tahunan";
+
+"main.lifetime.title" = "Akses seumur hidup";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Penawaran terbatas";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Akses Tak Terbatas";
+"onboarding.button.limited" = "Atau lanjutkan dengan versi terbatas";
+"onboarding.button.try_free" = "Coba gratis & Berlangganan";
+"onboarding.button.continue" = "Lanjutkan & Berlangganan";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimal";
+"onboarding.weekly.subtitle" = "Akses penuh hanya dengan";
+"onboarding.weekly.message" = "Aktifkan uji coba gratis 3 hari";
+"onboarding.weekly.periodly" = "Mingguan";
+
+"onboarding.weekly_trial.title" = "Tiga hari gratis";
+"onboarding.weekly_trial.subtitle" = "Coba 3 hari gratis, lalu";
+"onboarding.weekly_trial.message" = "Uji coba gratis diaktifkan";
+"onboarding.weekly_trial.periodly" = "Mingguan";
+
+/* Errors */
+"error.product_unavailable" = "Produk ini saat ini tidak tersedia. Silakan coba lagi nanti.";
+"error.network" = "Kesalahan koneksi. Periksa koneksi internet Anda.";
+"error.cancelled" = "Pembelian dibatalkan.";
+"error.pending" = "Pembelian menunggu persetujuan.";
+"error.verification_failed" = "Verifikasi pembelian gagal. Hubungi dukungan.";
+"error.nothing_to_restore" = "Tidak ada pembelian untuk dipulihkan.";
+"error.payment_not_allowed" = "Pembelian tidak diizinkan di perangkat ini.";
+"error.payment_invalid" = "Informasi pembayaran tidak valid.";
+"error.billing_issue" = "Masalah penagihan. Perbarui metode pembayaran Anda.";
+"error.not_entitled" = "Anda tidak berhak atas pembelian ini.";
+"error.unknown" = "Terjadi kesalahan. Silakan coba lagi nanti.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Uji Coba";
+"picker.today" = "Hari ini";
+"picker.today.subtitle" = "Akses tak terbatas";
+"picker.future.title" = "Dalam %@";
+"picker.future.subtitle.trial" = "Langganan diperpanjang otomatis seharga %@\nsetelah masa uji coba %@. Batalkan kapan saja";
+"picker.future.subtitle.nonTrial" = "Langganan diperpanjang otomatis seharga %@.\nBatalkan kapan saja";
+"onboarding.weekly_picker_trial" = "Berlangganan untuk membuka semua fitur,\nhanya %@ + %@ uji coba gratis";
+"onboarding.weekly_picker_nonTrial" = "Berlangganan untuk membuka semua fitur,\nhanya %@";
+"duration.days" = "%d hari";
+"duration.weeks" = "%d minggu";
+"duration.months" = "%d bulan";
+"duration.years" = "%d tahun";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Uji coba tidak tersedia";
+"alert.trial_expired.message" = "Anda sudah menggunakan uji coba gratis. Anda dapat berlangganan tanpa masa uji coba.";
+
+"picker.segment.trial" = "3 hari";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Mulai Uji Coba Gratis";
+"onboarding.message.nonTrial" = "Masih ragu? Mulai uji coba gratis";

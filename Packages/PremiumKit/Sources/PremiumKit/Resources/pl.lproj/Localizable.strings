@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "tydzien";
+"period.month" = "miesiac";
+"period.year" = "rok";
+"period.day" = "dzien";
+"period.one_time" = "jednorazowo";
+
+/* Price formats */
+"price.per_week_format" = "Lacznie %@ tygodniowo";
+"price.limited_offer" = "Oferta ograniczona czasowo";
+
+/* Fallback buttons */
+"button.try_free" = "Wyprobuj za darmo";
+"button.continue" = "Kontynuuj i subskrybuj";
+"button.purchase" = "Kup i kontynuuj";
+"button.limited" = "lub kontynuuj z ograniczona wersja";
+"button.next" = "Kontynuuj";
+
+/* Alerts */
+"alert.cancel" = "Anuluj";
+"alert.retry" = "Ponow probe";
+"alert.retry_message" = "Czy chcesz sprobowac ponownie?";
+"alert.error" = "Blad";
+
+/* Product */
+"product.trial_title" = "3 dni za darmo";
+"product.non_trial_subtitle" = "Pełny dostęp już za";
+
+/* Links */
+"links.terms" = "Regulamin";
+"links.privacy" = "Polityka prywatnosci";
+"links.restore" = "Przywroc";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Nieograniczony dostep!";
+"main.button.try_free" = "Wyprobuj za darmo";
+"main.button.continue" = "Kontynuuj i subskrybuj";
+"main.button.purchase" = "Kup i kontynuuj";
+
+/* Main products */
+"main.weekly_trial.title" = "Optymalny";
+"main.weekly_trial.subtitle" = "Wyprobuj 3 dni za darmo, potem";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Tygodniowo";
+
+"main.monthly.title" = "Popularny";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Miesiecznie";
+
+"main.yearly.title" = "Najlepsza oferta";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Rocznie";
+
+"main.lifetime.title" = "Dozywotni dostep";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Oferta ograniczona czasowo";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Nieograniczony dostęp";
+"onboarding.button.limited" = "Lub kontynuuj z ograniczona wersja";
+"onboarding.button.try_free" = "Wypróbuj za darmo i subskrybuj";
+"onboarding.button.continue" = "Kontynuuj i subskrybuj";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optymalny";
+"onboarding.weekly.subtitle" = "Pelny dostep za jedyne";
+"onboarding.weekly.message" = "Wlacz 3-dniowy okres probny";
+"onboarding.weekly.periodly" = "Tygodniowo";
+
+"onboarding.weekly_trial.title" = "Trzy dni za darmo";
+"onboarding.weekly_trial.subtitle" = "Wyprobuj 3 dni za darmo, potem";
+"onboarding.weekly_trial.message" = "Okres probny aktywowany";
+"onboarding.weekly_trial.periodly" = "Tygodniowo";
+
+/* Errors */
+"error.product_unavailable" = "Ten produkt jest obecnie niedostepny. Sprobuj ponownie pozniej.";
+"error.network" = "Blad polaczenia. Sprawdz polaczenie internetowe.";
+"error.cancelled" = "Zakup anulowany.";
+"error.pending" = "Zakup oczekuje na zatwierdzenie.";
+"error.verification_failed" = "Weryfikacja zakupu nie powiodla sie. Skontaktuj sie z obsluga.";
+"error.nothing_to_restore" = "Brak zakupow do przywrocenia.";
+"error.payment_not_allowed" = "Zakupy nie sa dozwolone na tym urzadzeniu.";
+"error.payment_invalid" = "Nieprawidlowe dane platnosci.";
+"error.billing_issue" = "Problem z rozliczeniem. Zaktualizuj metode platnosci.";
+"error.not_entitled" = "Nie masz uprawnien do tego zakupu.";
+"error.unknown" = "Cos poszlo nie tak. Sprobuj ponownie pozniej.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Próba";
+"picker.today" = "Dzisiaj";
+"picker.today.subtitle" = "Nieograniczony dostęp";
+"picker.future.title" = "Za %@";
+"picker.future.subtitle.trial" = "Subskrypcja odnawia się automatycznie za %@\npo okresie próbnym %@. Anuluj w dowolnym momencie";
+"picker.future.subtitle.nonTrial" = "Subskrypcja odnawia się automatycznie za %@.\nAnuluj w dowolnym momencie";
+"onboarding.weekly_picker_trial" = "Subskrybuj, aby odblokować wszystkie funkcje,\ntylko za %@ + %@ darmowego okresu próbnego";
+"onboarding.weekly_picker_nonTrial" = "Subskrybuj, aby odblokować wszystkie funkcje,\ntylko za %@";
+"duration.days" = "%d dni";
+"duration.weeks" = "%d tyg.";
+"duration.months" = "%d mies.";
+"duration.years" = "%d r.";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Okres próbny niedostępny";
+"alert.trial_expired.message" = "Wykorzystałeś już bezpłatny okres próbny. Możesz subskrybować bez okresu próbnego.";
+
+"picker.segment.trial" = "3 dni";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Rozpocznij bezpłatny okres próbny";
+"onboarding.message.nonTrial" = "Nie masz pewności? Rozpocznij bezpłatny okres próbny";

@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "saptamana";
+"period.month" = "luna";
+"period.year" = "an";
+"period.day" = "zi";
+"period.one_time" = "o singura data";
+
+/* Price formats */
+"price.per_week_format" = "Total %@ pe saptamana";
+"price.limited_offer" = "Oferta limitata";
+
+/* Fallback buttons */
+"button.try_free" = "Incearca gratuit";
+"button.continue" = "Continua si aboneaza-te";
+"button.purchase" = "Cumpara si continua";
+"button.limited" = "sau continua cu versiunea limitata";
+"button.next" = "Continua";
+
+/* Alerts */
+"alert.cancel" = "Anuleaza";
+"alert.retry" = "Reincearca";
+"alert.retry_message" = "Doriti sa incercati din nou?";
+"alert.error" = "Eroare";
+
+/* Product */
+"product.trial_title" = "3 zile gratuit";
+"product.non_trial_subtitle" = "Acces complet pentru doar";
+
+/* Links */
+"links.terms" = "Termeni de utilizare";
+"links.privacy" = "Politica de confidentialitate";
+"links.restore" = "Restaureaza";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Acces nelimitat!";
+"main.button.try_free" = "Incearca gratuit";
+"main.button.continue" = "Continua si aboneaza-te";
+"main.button.purchase" = "Cumpara si continua";
+
+/* Main products */
+"main.weekly_trial.title" = "Optim";
+"main.weekly_trial.subtitle" = "Incearca 3 zile gratuit, apoi";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Saptamanal";
+
+"main.monthly.title" = "Popular";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Lunar";
+
+"main.yearly.title" = "Cea mai buna oferta";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Anual";
+
+"main.lifetime.title" = "Acces pe viata";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Oferta limitata in timp";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Acces Nelimitat";
+"onboarding.button.limited" = "Sau continua cu versiunea limitata";
+"onboarding.button.try_free" = "Încearcă gratis și abonează-te";
+"onboarding.button.continue" = "Continuă și abonează-te";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optim";
+"onboarding.weekly.subtitle" = "Acces complet pentru doar";
+"onboarding.weekly.message" = "Activeaza perioada de proba de 3 zile";
+"onboarding.weekly.periodly" = "Saptamanal";
+
+"onboarding.weekly_trial.title" = "Trei zile gratuit";
+"onboarding.weekly_trial.subtitle" = "Incearca 3 zile gratuit, apoi";
+"onboarding.weekly_trial.message" = "Perioada de proba activata";
+"onboarding.weekly_trial.periodly" = "Saptamanal";
+
+/* Errors */
+"error.product_unavailable" = "Acest produs nu este disponibil momentan. Incercati mai tarziu.";
+"error.network" = "Eroare de conexiune. Verificati conexiunea la internet.";
+"error.cancelled" = "Achizitie anulata.";
+"error.pending" = "Achizitie in asteptarea aprobarii.";
+"error.verification_failed" = "Verificarea achizitiei a esuat. Contactati suportul.";
+"error.nothing_to_restore" = "Nu exista achizitii de restaurat.";
+"error.payment_not_allowed" = "Achizitiile nu sunt permise pe acest dispozitiv.";
+"error.payment_invalid" = "Informatii de plata invalide.";
+"error.billing_issue" = "Problema de facturare. Actualizati metoda de plata.";
+"error.not_entitled" = "Nu aveti dreptul la aceasta achizitie.";
+"error.unknown" = "Ceva a mers prost. Incercati mai tarziu.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Probă";
+"picker.today" = "Astăzi";
+"picker.today.subtitle" = "Acces nelimitat";
+"picker.future.title" = "În %@";
+"picker.future.subtitle.trial" = "Abonamentul se reînnoiește automat la %@\ndupă perioada de probă de %@. Anulează oricând";
+"picker.future.subtitle.nonTrial" = "Abonamentul se reînnoiește automat la %@.\nAnulează oricând";
+"onboarding.weekly_picker_trial" = "Abonează-te pentru a debloca toate funcțiile,\ndoar %@ + %@ perioadă de probă gratuită";
+"onboarding.weekly_picker_nonTrial" = "Abonează-te pentru a debloca toate funcțiile,\ndoar %@";
+"duration.days" = "%d zile";
+"duration.weeks" = "%d săpt.";
+"duration.months" = "%d luni";
+"duration.years" = "%d ani";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Perioada de probă nu este disponibilă";
+"alert.trial_expired.message" = "Ați utilizat deja perioada de probă gratuită. Puteți să vă abonați fără perioadă de probă.";
+
+"picker.segment.trial" = "3 zile";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Începe o perioadă de probă gratuită";
+"onboarding.message.nonTrial" = "Încă nu ești sigur? Începe o perioadă de probă gratuită";

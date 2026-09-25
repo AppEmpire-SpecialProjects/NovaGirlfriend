@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "สัปดาห์";
+"period.month" = "เดือน";
+"period.year" = "ปี";
+"period.day" = "วัน";
+"period.one_time" = "ครั้งเดียว";
+
+/* Price formats */
+"price.per_week_format" = "รวม %@ ต่อสัปดาห์";
+"price.limited_offer" = "ข้อเสนอจำกัดเวลา";
+
+/* Fallback buttons */
+"button.try_free" = "ทดลองใช้ฟรี";
+"button.continue" = "ดำเนินการต่อและสมัครสมาชิก";
+"button.purchase" = "ซื้อและดำเนินการต่อ";
+"button.limited" = "หรือดำเนินการต่อด้วยเวอร์ชันจำกัด";
+"button.next" = "ดำเนินการต่อ";
+
+/* Alerts */
+"alert.cancel" = "ยกเลิก";
+"alert.retry" = "ลองอีกครั้ง";
+"alert.retry_message" = "คุณต้องการลองอีกครั้งหรือไม่?";
+"alert.error" = "ข้อผิดพลาด";
+
+/* Product */
+"product.trial_title" = "ทดลองใช้ฟรี 3 วัน";
+"product.non_trial_subtitle" = "เข้าถึงทั้งหมดเพียง";
+
+/* Links */
+"links.terms" = "ข้อกำหนดการใช้งาน";
+"links.privacy" = "นโยบายความเป็นส่วนตัว";
+"links.restore" = "กู้คืน";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "เข้าถึงไม่จำกัด!";
+"main.button.try_free" = "ทดลองใช้ฟรี";
+"main.button.continue" = "ดำเนินการต่อและสมัครสมาชิก";
+"main.button.purchase" = "ซื้อและดำเนินการต่อ";
+
+/* Main products */
+"main.weekly_trial.title" = "เหมาะสม";
+"main.weekly_trial.subtitle" = "ทดลองใช้ฟรี 3 วัน จากนั้น";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "รายสัปดาห์";
+
+"main.monthly.title" = "ยอดนิยม";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "รายเดือน";
+
+"main.yearly.title" = "ข้อเสนอที่ดีที่สุด";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "รายปี";
+
+"main.lifetime.title" = "เข้าถึงตลอดชีพ";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "ข้อเสนอจำกัดเวลา";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "เข้าถึงไม่จำกัด";
+"onboarding.button.limited" = "หรือดำเนินการต่อด้วยเวอร์ชันจำกัด";
+"onboarding.button.try_free" = "ทดลองฟรีและสมัครสมาชิก";
+"onboarding.button.continue" = "ดำเนินการต่อและสมัครสมาชิก";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "เหมาะสมที่สุด";
+"onboarding.weekly.subtitle" = "เข้าถึงเต็มรูปแบบเพียง";
+"onboarding.weekly.message" = "เปิดใช้งานทดลองใช้ฟรี 3 วัน";
+"onboarding.weekly.periodly" = "รายสัปดาห์";
+
+"onboarding.weekly_trial.title" = "ฟรี 3 วัน";
+"onboarding.weekly_trial.subtitle" = "ทดลองใช้ฟรี 3 วัน จากนั้น";
+"onboarding.weekly_trial.message" = "เปิดใช้งานทดลองใช้ฟรีแล้ว";
+"onboarding.weekly_trial.periodly" = "รายสัปดาห์";
+
+/* Errors */
+"error.product_unavailable" = "สินค้านี้ไม่พร้อมใช้งานในขณะนี้ โปรดลองอีกครั้งในภายหลัง";
+"error.network" = "ข้อผิดพลาดในการเชื่อมต่อ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ต";
+"error.cancelled" = "ยกเลิกการซื้อแล้ว";
+"error.pending" = "การซื้อรอการอนุมัติ";
+"error.verification_failed" = "การยืนยันการซื้อล้มเหลว โปรดติดต่อฝ่ายสนับสนุน";
+"error.nothing_to_restore" = "ไม่มีการซื้อที่จะกู้คืน";
+"error.payment_not_allowed" = "ไม่อนุญาตให้ซื้อบนอุปกรณ์นี้";
+"error.payment_invalid" = "ข้อมูลการชำระเงินไม่ถูกต้อง";
+"error.billing_issue" = "ปัญหาการเรียกเก็บเงิน โปรดอัปเดตวิธีการชำระเงิน";
+"error.not_entitled" = "คุณไม่มีสิทธิ์ในการซื้อนี้";
+"error.unknown" = "มีบางอย่างผิดพลาด โปรดลองอีกครั้งในภายหลัง";
+
+/* Picker Paywall */
+"picker.badge.trial" = "ทดลอง";
+"picker.today" = "วันนี้";
+"picker.today.subtitle" = "เข้าถึงไม่จำกัด";
+"picker.future.title" = "ใน %@";
+"picker.future.subtitle.trial" = "สมัครสมาชิกต่ออัตโนมัติที่ %@\nหลังช่วงทดลองใช้ %@ ยกเลิกได้ตลอดเวลา";
+"picker.future.subtitle.nonTrial" = "สมัครสมาชิกต่ออัตโนมัติที่ %@\nยกเลิกได้ตลอดเวลา";
+"onboarding.weekly_picker_trial" = "สมัครเพื่อปลดล็อกทุกฟีเจอร์\nเพียง %@ + %@ ทดลองใช้ฟรี";
+"onboarding.weekly_picker_nonTrial" = "สมัครเพื่อปลดล็อกทุกฟีเจอร์\nเพียง %@";
+"duration.days" = "%d วัน";
+"duration.weeks" = "%d สัปดาห์";
+"duration.months" = "%d เดือน";
+"duration.years" = "%d ปี";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "ไม่สามารถใช้ช่วงทดลองได้";
+"alert.trial_expired.message" = "คุณได้ใช้ช่วงทดลองฟรีแล้ว คุณสามารถสมัครสมาชิกโดยไม่มีช่วงทดลองใช้งาน";
+
+"picker.segment.trial" = "3 วัน";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "เริ่มทดลองใช้ฟรี";
+"onboarding.message.nonTrial" = "ยังไม่แน่ใจ? เริ่มทดลองใช้ฟรี";

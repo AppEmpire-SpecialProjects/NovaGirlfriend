@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "неделю";
+"period.month" = "месяц";
+"period.year" = "год";
+"period.day" = "день";
+"period.one_time" = "навсегда";
+
+/* Price formats */
+"price.per_week_format" = "Всего %@ в неделю";
+"price.limited_offer" = "Временная акция";
+
+/* Fallback buttons */
+"button.try_free" = "Попробовать бесплатно";
+"button.continue" = "Продолжить и подписаться";
+"button.purchase" = "Купить и продолжить";
+"button.limited" = "или продолжить с ограничениями";
+"button.next" = "Продолжить";
+
+/* Alerts */
+"alert.cancel" = "Отмена";
+"alert.retry" = "Повторить";
+"alert.retry_message" = "Хотите попробовать снова?";
+"alert.error" = "Ошибка";
+
+/* Product */
+"product.trial_title" = "3 дня бесплатно";
+"product.non_trial_subtitle" = "Полный доступ всего за";
+
+/* Links */
+"links.terms" = "Условия использования";
+"links.privacy" = "Политика конфиденциальности";
+"links.restore" = "Восстановить";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Безлимитный доступ!";
+"main.button.try_free" = "Попробовать бесплатно и подписаться";
+"main.button.continue" = "Продолжить и подписаться";
+"main.button.purchase" = "Продолжить и купить";
+
+/* Main products */
+"main.weekly_trial.title" = "Оптимально";
+"main.weekly_trial.subtitle" = "Попробуй 3 дня бесплатно, затем";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Недельный";
+
+"main.monthly.title" = "Популярно";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Месячный";
+
+"main.yearly.title" = "Лучшее предложение";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Годовой";
+
+"main.lifetime.title" = "Навсегда";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Это ограниченное предложение";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Безлимитный доступ";
+"onboarding.button.limited" = "или продолжить c ограниченной версией";
+"onboarding.button.try_free" = "Попробовать бесплатно и подписаться";
+"onboarding.button.continue" = "Продолжить и подписаться";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Оптимально";
+"onboarding.weekly.subtitle" = "Безлимитный доступ всего за";
+"onboarding.weekly.message" = "Попробуй бесплатный 3х дневный период";
+"onboarding.weekly.periodly" = "Недельный";
+
+"onboarding.weekly_trial.title" = "Оптимальный";
+"onboarding.weekly_trial.subtitle" = "Попробуй 3 дня бесплатно, затем";
+"onboarding.weekly_trial.message" = "Бесплатный период активирован";
+"onboarding.weekly_trial.periodly" = "Недельный";
+
+/* Errors */
+"error.product_unavailable" = "Продукт временно недоступен. Попробуйте позже.";
+"error.network" = "Ошибка соединения. Проверьте интернет и попробуйте снова.";
+"error.cancelled" = "Покупка отменена.";
+"error.pending" = "Покупка ожидает подтверждения.";
+"error.verification_failed" = "Ошибка верификации покупки. Обратитесь в поддержку.";
+"error.nothing_to_restore" = "Нет покупок для восстановления.";
+"error.payment_not_allowed" = "Покупки недоступны на этом устройстве.";
+"error.payment_invalid" = "Неверные платёжные данные. Обновите способ оплаты в настройках App Store.";
+"error.billing_issue" = "Проблема с оплатой. Обновите способ оплаты в настройках App Store.";
+"error.not_entitled" = "Покупка недоступна для вашего аккаунта.";
+"error.unknown" = "Что-то пошло не так. Попробуйте позже.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Пробный";
+"picker.today" = "Сегодня";
+"picker.today.subtitle" = "Безлимитный доступ";
+"picker.future.title" = "Через %@";
+"picker.future.subtitle.trial" = "Подписка автоматически продлевается за %@\nпосле пробного периода %@. Отмена в любое время";
+"picker.future.subtitle.nonTrial" = "Подписка автоматически продлевается за %@.\nОтмена в любое время";
+"onboarding.weekly_picker_trial" = "Подпишитесь на все функции,\nвсего за %@ + %@ бесплатный пробный период";
+"onboarding.weekly_picker_nonTrial" = "Подпишитесь на все функции,\nвсего за %@";
+"duration.days" = "%d дн.";
+"duration.weeks" = "%d нед.";
+"duration.months" = "%d мес.";
+"duration.years" = "%d г.";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Пробный период недоступен";
+"alert.trial_expired.message" = "Вы уже использовали бесплатный пробный период. Вы можете оформить подписку без пробного периода.";
+
+"picker.segment.trial" = "3 дня";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Начать бесплатный период";
+"onboarding.message.nonTrial" = "Ещё не уверены? Начните бесплатный период";

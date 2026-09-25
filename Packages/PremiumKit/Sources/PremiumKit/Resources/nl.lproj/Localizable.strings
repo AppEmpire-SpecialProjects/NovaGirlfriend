@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "week";
+"period.month" = "maand";
+"period.year" = "jaar";
+"period.day" = "dag";
+"period.one_time" = "eenmalig";
+
+/* Price formats */
+"price.per_week_format" = "Totaal %@ per week";
+"price.limited_offer" = "Tijdelijke aanbieding";
+
+/* Fallback buttons */
+"button.try_free" = "Gratis proberen";
+"button.continue" = "Doorgaan en abonneren";
+"button.purchase" = "Kopen en doorgaan";
+"button.limited" = "of doorgaan met beperkte versie";
+"button.next" = "Doorgaan";
+
+/* Alerts */
+"alert.cancel" = "Annuleren";
+"alert.retry" = "Opnieuw proberen";
+"alert.retry_message" = "Wil je het opnieuw proberen?";
+"alert.error" = "Fout";
+
+/* Product */
+"product.trial_title" = "3 dagen gratis proberen";
+"product.non_trial_subtitle" = "Volledige toegang voor slechts";
+
+/* Links */
+"links.terms" = "Gebruiksvoorwaarden";
+"links.privacy" = "Privacybeleid";
+"links.restore" = "Herstellen";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Onbeperkte toegang!";
+"main.button.try_free" = "Gratis proberen";
+"main.button.continue" = "Doorgaan en abonneren";
+"main.button.purchase" = "Kopen en doorgaan";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimaal";
+"main.weekly_trial.subtitle" = "Probeer 3 dagen gratis, daarna";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Wekelijks";
+
+"main.monthly.title" = "Populair";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Maandelijks";
+
+"main.yearly.title" = "Beste aanbieding";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Jaarlijks";
+
+"main.lifetime.title" = "Levenslange toegang";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Tijdelijke aanbieding";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Onbeperkte Toegang";
+"onboarding.button.limited" = "Of doorgaan met beperkte versie";
+"onboarding.button.try_free" = "Gratis proberen & Abonneren";
+"onboarding.button.continue" = "Doorgaan & Abonneren";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optimaal";
+"onboarding.weekly.subtitle" = "Volledige toegang voor slechts";
+"onboarding.weekly.message" = "Activeer 3 dagen gratis proefperiode";
+"onboarding.weekly.periodly" = "Wekelijks";
+
+"onboarding.weekly_trial.title" = "Drie dagen gratis";
+"onboarding.weekly_trial.subtitle" = "Probeer 3 dagen gratis, daarna";
+"onboarding.weekly_trial.message" = "Gratis proefperiode geactiveerd";
+"onboarding.weekly_trial.periodly" = "Wekelijks";
+
+/* Errors */
+"error.product_unavailable" = "Dit product is momenteel niet beschikbaar. Probeer het later opnieuw.";
+"error.network" = "Verbindingsfout. Controleer je internetverbinding.";
+"error.cancelled" = "Aankoop geannuleerd.";
+"error.pending" = "Aankoop wacht op goedkeuring.";
+"error.verification_failed" = "Verificatie van aankoop mislukt. Neem contact op met support.";
+"error.nothing_to_restore" = "Geen aankopen om te herstellen.";
+"error.payment_not_allowed" = "Aankopen zijn niet toegestaan op dit apparaat.";
+"error.payment_invalid" = "Ongeldige betalingsgegevens.";
+"error.billing_issue" = "Factureringsprobleem. Werk je betaalmethode bij.";
+"error.not_entitled" = "Je hebt geen recht op deze aankoop.";
+"error.unknown" = "Er is iets misgegaan. Probeer het later opnieuw.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Proef";
+"picker.today" = "Vandaag";
+"picker.today.subtitle" = "Onbeperkte toegang";
+"picker.future.title" = "Over %@";
+"picker.future.subtitle.trial" = "Abonnement verlengt automatisch voor %@\nna de proefperiode van %@. Annuleer op elk moment";
+"picker.future.subtitle.nonTrial" = "Abonnement verlengt automatisch voor %@.\nAnnuleer op elk moment";
+"onboarding.weekly_picker_trial" = "Abonneer om alle functies te ontgrendelen,\nvoor slechts %@ + %@ gratis proefperiode";
+"onboarding.weekly_picker_nonTrial" = "Abonneer om alle functies te ontgrendelen,\nvoor slechts %@";
+"duration.days" = "%d dagen";
+"duration.weeks" = "%d wk.";
+"duration.months" = "%d mnd.";
+"duration.years" = "%d jr.";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Proefperiode niet beschikbaar";
+"alert.trial_expired.message" = "U heeft uw gratis proefperiode al gebruikt. U kunt zich abonneren zonder proefperiode.";
+
+"picker.segment.trial" = "3 dagen";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Start een gratis proefperiode";
+"onboarding.message.nonTrial" = "Nog niet zeker? Start een gratis proefperiode";

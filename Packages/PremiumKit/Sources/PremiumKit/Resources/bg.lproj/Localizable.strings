@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "седмица";
+"period.month" = "месец";
+"period.year" = "година";
+"period.day" = "ден";
+"period.one_time" = "еднократно";
+
+/* Price formats */
+"price.per_week_format" = "Общо %@ на седмица";
+"price.limited_offer" = "Ограничена оферта";
+
+/* Fallback buttons */
+"button.try_free" = "Пробвай безплатно";
+"button.continue" = "Продължи и се абонирай";
+"button.purchase" = "Купи и продължи";
+"button.limited" = "или продължи с ограничена версия";
+"button.next" = "Продължи";
+
+/* Alerts */
+"alert.cancel" = "Отказ";
+"alert.retry" = "Опитай отново";
+"alert.retry_message" = "Искате ли да опитате отново?";
+"alert.error" = "Грешка";
+
+/* Product */
+"product.trial_title" = "3 дни безплатно";
+"product.non_trial_subtitle" = "Получете пълен достъп само за";
+
+/* Links */
+"links.terms" = "Условия за ползване";
+"links.privacy" = "Политика за поверителност";
+"links.restore" = "Възстанови";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Неограничен достъп!";
+"main.button.try_free" = "Пробвай безплатно";
+"main.button.continue" = "Продължи и се абонирай";
+"main.button.purchase" = "Купи и продължи";
+
+/* Main products */
+"main.weekly_trial.title" = "Оптимално";
+"main.weekly_trial.subtitle" = "Пробвай 3 дни безплатно, след това";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Седмично";
+
+"main.monthly.title" = "Популярен";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Месечно";
+
+"main.yearly.title" = "Най-добра оферта";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Годишно";
+
+"main.lifetime.title" = "Достъп за цял живот";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Ограничена оферта";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Неограничен достъп";
+"onboarding.button.limited" = "Или продължи с ограничена версия";
+"onboarding.button.try_free" = "Опитай безплатно и се абонирай";
+"onboarding.button.continue" = "Продължи и се абонирай";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Оптимален";
+"onboarding.weekly.subtitle" = "Пълен достъп само за";
+"onboarding.weekly.message" = "Активирай 3-дневен пробен период";
+"onboarding.weekly.periodly" = "Седмично";
+
+"onboarding.weekly_trial.title" = "Три дни безплатно";
+"onboarding.weekly_trial.subtitle" = "Пробвай 3 дни безплатно, след това";
+"onboarding.weekly_trial.message" = "Пробен период активиран";
+"onboarding.weekly_trial.periodly" = "Седмично";
+
+/* Errors */
+"error.product_unavailable" = "Този продукт не е наличен в момента. Опитайте по-късно.";
+"error.network" = "Грешка в връзката. Проверете интернет връзката.";
+"error.cancelled" = "Покупката е отменена.";
+"error.pending" = "Покупката чака одобрение.";
+"error.verification_failed" = "Неуспешна верификация на покупката. Свържете се с поддръжката.";
+"error.nothing_to_restore" = "Няма покупки за възстановяване.";
+"error.payment_not_allowed" = "Покупките не са разрешени на това устройство.";
+"error.payment_invalid" = "Невалидна информация за плащане.";
+"error.billing_issue" = "Проблем с фактурирането. Актуализирайте метода на плащане.";
+"error.not_entitled" = "Нямате право на тази покупка.";
+"error.unknown" = "Нещо се обърка. Опитайте по-късно.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Пробен";
+"picker.today" = "Днес";
+"picker.today.subtitle" = "Неограничен достъп";
+"picker.future.title" = "След %@";
+"picker.future.subtitle.trial" = "Абонаментът се подновява автоматично за %@\nслед пробния период от %@. Отменете по всяко време";
+"picker.future.subtitle.nonTrial" = "Абонаментът се подновява автоматично за %@.\nОтменете по всяко време";
+"onboarding.weekly_picker_trial" = "Абонирайте се за всички функции,\nсамо за %@ + %@ безплатен пробен период";
+"onboarding.weekly_picker_nonTrial" = "Абонирайте се за всички функции,\nсамо за %@";
+"duration.days" = "%d дни";
+"duration.weeks" = "%d седм.";
+"duration.months" = "%d мес.";
+"duration.years" = "%d г.";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Пробният период не е наличен";
+"alert.trial_expired.message" = "Вече сте използвали безплатния пробен период. Можете да се абонирате без пробен период.";
+
+"picker.segment.trial" = "3 дни";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Започнете безплатен пробен период";
+"onboarding.message.nonTrial" = "Все още не сте сигурни? Започнете безплатен пробен период";

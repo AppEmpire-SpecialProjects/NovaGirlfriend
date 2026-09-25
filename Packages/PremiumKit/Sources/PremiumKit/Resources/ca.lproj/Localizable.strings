@@ -1,0 +1,113 @@
+/* Periods - short */
+"period.week" = "setmana";
+"period.month" = "mes";
+"period.year" = "any";
+"period.day" = "dia";
+"period.one_time" = "un sol cop";
+
+/* Price formats */
+"price.per_week_format" = "Total %@ per setmana";
+"price.limited_offer" = "Oferta per temps limitat";
+
+/* Fallback buttons */
+"button.try_free" = "Prova gratis";
+"button.continue" = "Continua i subscriu-te";
+"button.purchase" = "Compra i continua";
+"button.limited" = "o continua amb la versio limitada";
+"button.next" = "Continua";
+
+/* Alerts */
+"alert.cancel" = "Cancel·la";
+"alert.retry" = "Torna-ho a provar";
+"alert.retry_message" = "Vols tornar-ho a provar?";
+"alert.error" = "Error";
+
+/* Product */
+"product.trial_title" = "3 dies de prova gratuita";
+"product.non_trial_subtitle" = "Obteniu accés complet per només";
+
+/* Links */
+"links.terms" = "Condicions d'us";
+"links.privacy" = "Politica de privadesa";
+"links.restore" = "Restaura";
+
+/* ===== MAIN PAYWALL ===== */
+"main.title" = "Acces il·limitat!";
+"main.button.try_free" = "Prova gratis";
+"main.button.continue" = "Continua i subscriu-te";
+"main.button.purchase" = "Compra i continua";
+
+/* Main products */
+"main.weekly_trial.title" = "Optimal";
+"main.weekly_trial.subtitle" = "Prova 3 dies gratis, despres";
+"main.weekly_trial.message" = "";
+"main.weekly_trial.periodly" = "Setmanal";
+
+"main.monthly.title" = "Popular";
+"main.monthly.subtitle" = "";
+"main.monthly.message" = "";
+"main.monthly.periodly" = "Mensual";
+
+"main.yearly.title" = "Millor oferta";
+"main.yearly.subtitle" = "";
+"main.yearly.message" = "";
+"main.yearly.periodly" = "Anual";
+
+"main.lifetime.title" = "Acces de per vida";
+"main.lifetime.subtitle" = "";
+"main.lifetime.message" = "";
+"main.lifetime.periodly" = "Oferta per temps limitat";
+
+/* ===== ONBOARDING PAYWALL ===== */
+"onboarding.title" = "Accés il·limitat";
+"onboarding.button.limited" = "O continua amb la versio limitada";
+"onboarding.button.try_free" = "Prova gratis i subscriu-te";
+"onboarding.button.continue" = "Continua i subscriu-te";
+
+/* Onboarding products */
+"onboarding.weekly.title" = "Optim";
+"onboarding.weekly.subtitle" = "Acces complet per nomes";
+"onboarding.weekly.message" = "Activa la prova gratuita de 3 dies";
+"onboarding.weekly.periodly" = "Setmanal";
+
+"onboarding.weekly_trial.title" = "Tres dies gratis";
+"onboarding.weekly_trial.subtitle" = "Prova 3 dies gratis, despres";
+"onboarding.weekly_trial.message" = "Prova gratuita activada";
+"onboarding.weekly_trial.periodly" = "Setmanal";
+
+/* Errors */
+"error.product_unavailable" = "Aquest producte no esta disponible actualment. Torna-ho a provar mes tard.";
+"error.network" = "Error de connexio. Comprova la teva connexio a internet.";
+"error.cancelled" = "Compra cancel·lada.";
+"error.pending" = "Compra pendent d'aprovacio.";
+"error.verification_failed" = "La verificacio de la compra ha fallat. Contacta amb el suport.";
+"error.nothing_to_restore" = "No hi ha compres per restaurar.";
+"error.payment_not_allowed" = "Les compres no estan permeses en aquest dispositiu.";
+"error.payment_invalid" = "Informacio de pagament no valida.";
+"error.billing_issue" = "Problema de facturacio. Actualitza el teu metode de pagament.";
+"error.not_entitled" = "No tens dret a aquesta compra.";
+"error.unknown" = "Alguna cosa ha anat malament. Torna-ho a provar mes tard.";
+
+/* Picker Paywall */
+"picker.badge.trial" = "Prova";
+"picker.today" = "Avui";
+"picker.today.subtitle" = "Accés il·limitat";
+"picker.future.title" = "En %@";
+"picker.future.subtitle.trial" = "La subscripció es renova automàticament a %@\ndesprés del període de prova de %@. Cancel·la en qualsevol moment";
+"picker.future.subtitle.nonTrial" = "La subscripció es renova automàticament a %@.\nCancel·la en qualsevol moment";
+"onboarding.weekly_picker_trial" = "Subscriu-te per desbloquejar totes les funcions,\nnomés %@ + %@ de prova gratuïta";
+"onboarding.weekly_picker_nonTrial" = "Subscriu-te per desbloquejar totes les funcions,\nnomés %@";
+"duration.days" = "%d dies";
+"duration.weeks" = "%d setm.";
+"duration.months" = "%d mesos";
+"duration.years" = "%d anys";
+
+/* Trial Expired Alert */
+"alert.trial_expired.title" = "Prova no disponible";
+"alert.trial_expired.message" = "Ja heu utilitzat la prova gratuïta. Podeu subscriure-us sense període de prova.";
+
+"picker.segment.trial" = "3 dies";
+
+/* Onboarding message (optional, dev-provided via JSON) */
+"onboarding.message.trial" = "Comença una prova gratuïta";
+"onboarding.message.nonTrial" = "Encara no ho tens clar? Comença una prova gratuïta";
